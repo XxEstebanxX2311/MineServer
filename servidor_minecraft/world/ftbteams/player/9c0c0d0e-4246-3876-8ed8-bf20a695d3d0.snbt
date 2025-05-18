@@ -1,0 +1,17 @@
+{
+	id: "9c0c0d0e-4246-3876-8ed8-bf20a695d3d0"
+	type: "player"
+	player_name: "ItsGermanXD137"
+	ranks: {
+		9c0c0d0e-4246-3876-8ed8-bf20a695d3d0: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ItsGermanXD137"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59FFBF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
