@@ -613,10 +613,13 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-05-19 20:58:50 +0000",
       "scrubland": "2025-05-19 19:55:11 +0000",
       "cold_desert": "2025-05-19 20:23:41 +0000",
+      "old_growth_woodland": "2025-05-19 20:58:46 +0000",
       "mediterranean_forest": "2025-05-19 20:53:41 +0000",
       "wasteland": "2025-05-19 20:54:50 +0000",
+      "wasteland_steppe": "2025-05-19 20:59:54 +0000",
       "tundra": "2025-05-19 20:23:29 +0000"
     },
     "done": false
@@ -728,6 +731,12 @@
   "integrated_villages:airship_village": {
     "criteria": {
       "in_airship_village": "2025-05-19 20:50:08 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-05-19 20:56:49 +0000"
     },
     "done": true
   },

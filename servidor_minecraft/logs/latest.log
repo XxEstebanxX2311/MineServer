@@ -5328,3 +5328,62 @@ ModdedBiomeSource (7b5c8d77)
 [19May2025 20:56:10.149] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
 [19May2025 20:56:10.149] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
 [19May2025 20:56:49.873] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Esteban_xX has made the advancement [This Must be a Sign!]
+[19May2025 20:59:11.371] [Server thread/INFO] [net.minecraft.server.commands.LocateCommand/]: Locating element cataclysm:cursed_pyramid took 5 ms
+[19May2025 21:00:09.786] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:09.786] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:09.787] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:09.787] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:09.919] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 21:00:09.920] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 21:00:09.929] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 21:00:10.207] [Worker-Main-26/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 21:00:14.713] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:14.714] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:14.744] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 21:00:17.007] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 21:00:17.015] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 21:00:17.171] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:17.171] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:17.178] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:17.178] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:17.213] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:17.532] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:17.564] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:17.564] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:19.525] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 21:00:19.526] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:19.526] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:19.526] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:19.526] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:19.660] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:19.667] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:19.667] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:19.667] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:19.668] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:19.737] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:19.738] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:19.738] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 21:00:19.738] [Worker-Main-25/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 21:00:24.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5601, y=110, z=2227} BlockPos{x=-5600, y=110, z=2228}
+[19May2025 21:00:28.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5595, y=110, z=2226} BlockPos{x=-5595, y=111, z=2227}
+[19May2025 21:00:28.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5595, y=110, z=2227} BlockPos{x=-5595, y=111, z=2227}
+[19May2025 21:00:28.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5595, y=110, z=2227} BlockPos{x=-5595, y=111, z=2227}
+[19May2025 21:00:28.159] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5594, y=110, z=2228} BlockPos{x=-5595, y=111, z=2227}
+[19May2025 21:00:28.225] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5594, y=110, z=2228} BlockPos{x=-5595, y=111, z=2227}
+[19May2025 21:00:28.252] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5594, y=110, z=2228} BlockPos{x=-5595, y=111, z=2227}
+[19May2025 21:00:28.306] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5594, y=110, z=2228} BlockPos{x=-5595, y=111, z=2227}
+[19May2025 21:00:28.363] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5596, y=110, z=2229} BlockPos{x=-5595, y=111, z=2227}
+[19May2025 21:00:29.181] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5595, y=111, z=2225} BlockPos{x=-5594, y=109, z=2226}
+[19May2025 21:00:29.207] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-5595, y=111, z=2225} BlockPos{x=-5594, y=109, z=2226}
+[19May2025 21:00:44.182] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Stopping train listener...
+[19May2025 21:00:44.182] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Stopping Advanced Display Data Manager...
+[19May2025 21:00:44.183] [Server thread/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: All events have been closed.
+[19May2025 21:00:44.207] [Config file watcher thread/INFO] [portb.configlib.ConfigLib/]: Watcher has shut down
+[19May2025 21:00:44.228] [Advanced Display Data Manager/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Advanced Display Data Manager has been stopped.
+[19May2025 21:00:44.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[19May2025 21:00:44.270] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[19May2025 21:00:44.564] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx_Esteban_xX lost connection: Server closed
+[19May2025 21:00:44.564] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Esteban_xX left the game
+[19May2025 21:00:44.565] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 16fdecdb-5c12-34c3-a913-77e9d53d05e1
+[19May2025 21:00:44.725] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[19May2025 21:00:44.796] [CRN Train Listener/INFO] [de.mrjulsen.crn.CreateRailwaysNavigator/]: Train listener has been stopped.
