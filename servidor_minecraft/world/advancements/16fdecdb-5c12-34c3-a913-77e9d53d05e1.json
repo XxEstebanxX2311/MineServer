@@ -532,6 +532,7 @@
       "minecraft:skeleton": "2025-05-18 02:27:03 +0000",
       "savage_and_ravage:creepie": "2025-05-19 19:55:56 +0000",
       "minecraft:spider": "2025-05-19 19:54:04 +0000",
+      "minecraft:zombified_piglin": "2025-05-19 20:12:48 +0000",
       "minecraft:zombie": "2025-05-18 02:43:59 +0000"
     },
     "done": false
@@ -596,6 +597,12 @@
     },
     "done": true
   },
+  "alexscaves:alexscaves/cave_codex": {
+    "criteria": {
+      "cave_codex": "2025-05-19 20:12:21 +0000"
+    },
+    "done": true
+  },
   "irons_spellbooks:irons_spellbooks/ink_root": {
     "criteria": {
       "requirement": "2025-05-19 19:56:41 +0000"
@@ -632,6 +639,12 @@
       "has_magic_scroll": "2025-05-19 19:56:41 +0000"
     },
     "done": true
+  },
+  "farmersdelight:main/plant_all_crops": {
+    "criteria": {
+      "sugar_cane": "2025-05-19 20:06:09 +0000"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }

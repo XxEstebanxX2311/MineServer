@@ -392,6 +392,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:taiga": "2025-05-19 20:12:14 +0000",
       "minecraft:deep_ocean": "2025-05-19 20:04:54 +0000",
       "minecraft:badlands": "2025-05-18 01:55:19 +0000",
       "minecraft:savanna_plateau": "2025-05-19 19:53:21 +0000",
@@ -400,11 +401,13 @@
       "minecraft:lukewarm_ocean": "2025-05-18 01:56:33 +0000",
       "minecraft:river": "2025-05-18 01:55:17 +0000",
       "minecraft:stony_shore": "2025-05-18 01:56:53 +0000",
+      "minecraft:cold_ocean": "2025-05-19 20:10:28 +0000",
       "minecraft:forest": "2025-05-18 01:56:14 +0000",
       "minecraft:desert": "2025-05-18 01:55:20 +0000",
       "minecraft:ocean": "2025-05-19 20:04:31 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-19 19:57:51 +0000",
-      "minecraft:savanna": "2025-05-18 01:52:57 +0000"
+      "minecraft:savanna": "2025-05-18 01:52:57 +0000",
+      "minecraft:plains": "2025-05-19 20:05:24 +0000"
     },
     "done": false
   },
@@ -458,7 +461,11 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "scrubland": "2025-05-18 01:57:04 +0000"
+      "scrubland": "2025-05-18 01:57:04 +0000",
+      "cold_desert": "2025-05-19 20:14:10 +0000",
+      "field": "2025-05-19 20:09:39 +0000",
+      "coniferous_forest": "2025-05-19 20:10:19 +0000",
+      "tundra": "2025-05-19 20:15:05 +0000"
     },
     "done": false
   },
@@ -612,9 +619,27 @@
     },
     "done": true
   },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-05-19 20:05:24 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:experienced_engineer": {
+    "criteria": {
+      "have_experience_nugget": "2025-05-19 20:06:22 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_umvuthana_raptor": {
     "criteria": {
       "umvuthana_raptor": "2025-05-19 19:53:51 +0000"
+    },
+    "done": true
+  },
+  "moped:copper_moped_root": {
+    "criteria": {
+      "copper_moped_root": "2025-05-19 20:12:53 +0000"
     },
     "done": true
   },
@@ -624,10 +649,52 @@
     },
     "done": true
   },
+  "tombstone:adventure/find_grave_dust": {
+    "criteria": {
+      "from_undead": "2025-05-19 20:15:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-19 20:12:41 +0000"
+    },
+    "done": true
+  },
+  "beautify:lamps": {
+    "criteria": {
+      "requirement": "2025-05-19 20:12:53 +0000"
+    },
+    "done": true
+  },
+  "create:copper": {
+    "criteria": {
+      "0": "2025-05-19 20:12:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/sunbird_blessing": {
+    "criteria": {
+      "all_effects": "2025-05-19 20:15:30 +0000"
+    },
+    "done": true
+  },
+  "create_enchantment_industry:recipes/experience_rotor": {
+    "criteria": {
+      "has_item": "2025-05-19 20:06:22 +0000"
+    },
+    "done": true
+  },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:forgotten_forest": "2025-05-19 20:08:44 +0000",
       "biomeswevegone:lush_stacks": "2025-05-19 19:58:38 +0000",
-      "biomeswevegone:ironwood_gour": "2025-05-19 20:04:13 +0000"
+      "biomeswevegone:maple_taiga": "2025-05-19 20:12:07 +0000",
+      "biomeswevegone:ironwood_gour": "2025-05-19 20:04:13 +0000",
+      "biomeswevegone:basalt_barrera": "2025-05-19 20:08:16 +0000",
+      "biomeswevegone:dacite_shore": "2025-05-19 20:09:44 +0000",
+      "biomeswevegone:skyrise_vale": "2025-05-19 20:08:34 +0000",
+      "biomeswevegone:allium_shrubland": "2025-05-19 20:08:12 +0000"
     },
     "done": false
   },
@@ -642,9 +709,16 @@
       "minecraft:pillager": "2025-05-19 19:55:41 +0000",
       "minecraft:skeleton": "2025-05-19 19:54:14 +0000",
       "minecraft:vindicator": "2025-05-19 19:55:31 +0000",
-      "minecraft:zombie": "2025-05-19 19:54:04 +0000"
+      "minecraft:zombie": "2025-05-19 19:54:04 +0000",
+      "minecraft:zombie_villager": "2025-05-19 20:15:28 +0000"
     },
     "done": false
+  },
+  "minecraft:adventure/voluntary_exile": {
+    "criteria": {
+      "voluntary_exile": "2025-05-19 20:06:44 +0000"
+    },
+    "done": true
   },
   "biomeswevegone:biomeswevegone/adventure/root": {
     "criteria": {
@@ -661,6 +735,18 @@
   "tombstone:adventure/fortuitous_militia": {
     "criteria": {
       "coded_trigger": "2025-05-19 19:55:48 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/eat_comfort_food": {
+    "criteria": {
+      "comfort": "2025-05-19 20:09:48 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:adventure/smelt_copper": {
+    "criteria": {
+      "copper": "2025-05-19 20:12:53 +0000"
     },
     "done": true
   },
