@@ -473,6 +473,7 @@
       "scrubland": "2025-05-18 01:57:04 +0000",
       "cold_desert": "2025-05-19 20:14:10 +0000",
       "field": "2025-05-19 20:09:39 +0000",
+      "mediterranean_forest": "2025-05-19 20:49:16 +0000",
       "coniferous_forest": "2025-05-19 20:10:19 +0000",
       "tundra": "2025-05-19 20:15:05 +0000"
     },
@@ -685,6 +686,7 @@
       "biomeswevegone:dacite_ridges": "2025-05-19 20:42:51 +0000",
       "biomeswevegone:dacite_shore": "2025-05-19 20:09:44 +0000",
       "biomeswevegone:skyrise_vale": "2025-05-19 20:08:34 +0000",
+      "biomeswevegone:dead_sea": "2025-05-19 20:52:00 +0000",
       "biomeswevegone:allium_shrubland": "2025-05-19 20:08:12 +0000"
     },
     "done": false
@@ -791,12 +793,6 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/ink_root": {
-    "criteria": {
-      "requirement": "2025-05-19 20:41:31 +0000"
-    },
-    "done": true
-  },
   "garnished:dulse_kelp": {
     "criteria": {
       "obtain_dulse_kelp": "2025-05-19 20:38:04 +0000"
@@ -806,6 +802,36 @@
   "alexscaves:alexscaves/cave_map": {
     "criteria": {
       "cave_map": "2025-05-19 20:39:17 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-05-19 20:41:31 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:airship_village": {
+    "criteria": {
+      "in_airship_village": "2025-05-19 20:50:09 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-05-19 20:50:21 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "1": "2025-05-19 20:50:29 +0000"
+    },
+    "done": false
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-05-19 20:48:12 +0000"
     },
     "done": true
   },

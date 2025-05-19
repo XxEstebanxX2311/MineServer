@@ -394,6 +394,7 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-05-19 20:04:56 +0000",
       "minecraft:eroded_badlands": "2025-05-18 01:55:08 +0000",
+      "atmospheric:atmospheric:petrified_dunes": "2025-05-19 20:54:55 +0000",
       "minecraft:badlands": "2025-05-18 01:55:27 +0000",
       "minecraft:savanna_plateau": "2025-05-19 19:53:49 +0000",
       "minecraft:beach": "2025-05-19 20:03:21 +0000",
@@ -402,7 +403,9 @@
       "minecraft:snowy_plains": "2025-05-19 20:38:34 +0000",
       "minecraft:stony_shore": "2025-05-19 19:57:15 +0000",
       "minecraft:desert": "2025-05-18 01:55:28 +0000",
+      "atmospheric:atmospheric:scrubland": "2025-05-19 20:54:54 +0000",
       "minecraft:ocean": "2025-05-19 20:04:34 +0000",
+      "minecraft:warm_ocean": "2025-05-19 20:52:36 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-19 19:58:07 +0000",
       "minecraft:savanna": "2025-05-18 01:50:18 +0000"
     },
@@ -535,6 +538,8 @@
       "minecraft:spider": "2025-05-19 19:54:04 +0000",
       "minecraft:creeper": "2025-05-19 20:28:10 +0000",
       "minecraft:zombified_piglin": "2025-05-19 20:12:48 +0000",
+      "minecraft:witch": "2025-05-19 20:55:24 +0000",
+      "minecraft:husk": "2025-05-19 20:55:17 +0000",
       "minecraft:zombie": "2025-05-18 02:43:59 +0000",
       "minecraft:zombie_villager": "2025-05-19 20:26:08 +0000"
     },
@@ -610,6 +615,8 @@
     "criteria": {
       "scrubland": "2025-05-19 19:55:11 +0000",
       "cold_desert": "2025-05-19 20:23:41 +0000",
+      "mediterranean_forest": "2025-05-19 20:53:41 +0000",
+      "wasteland": "2025-05-19 20:54:50 +0000",
       "tundra": "2025-05-19 20:23:29 +0000"
     },
     "done": false
@@ -629,7 +636,8 @@
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
       "biomeswevegone:lush_stacks": "2025-05-19 19:58:39 +0000",
-      "biomeswevegone:ironwood_gour": "2025-05-19 20:03:41 +0000"
+      "biomeswevegone:ironwood_gour": "2025-05-19 20:03:41 +0000",
+      "biomeswevegone:dead_sea": "2025-05-19 20:52:09 +0000"
     },
     "done": false
   },
@@ -714,6 +722,36 @@
   "tombstone:recipes/from_grave_dust": {
     "criteria": {
       "has_ingredient": "2025-05-19 20:28:13 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:airship_village": {
+    "criteria": {
+      "in_airship_village": "2025-05-19 20:50:08 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 20:55:20 +0000"
+    },
+    "done": true
+  },
+  "the_bumblezone:teleportation/is_near_beehive": {
+    "criteria": {
+      "is_near_beehive": "2025-05-19 20:50:20 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/falconry_glove": {
+    "criteria": {
+      "falconry_glove": "2025-05-19 20:50:30 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/seagull_steal": {
+    "criteria": {
+      "ex": "2025-05-19 20:55:05 +0000"
     },
     "done": true
   },
