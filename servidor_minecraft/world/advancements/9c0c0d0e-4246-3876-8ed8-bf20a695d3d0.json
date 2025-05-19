@@ -402,6 +402,7 @@
       "minecraft:river": "2025-05-18 01:55:17 +0000",
       "minecraft:stony_shore": "2025-05-18 01:56:53 +0000",
       "minecraft:cold_ocean": "2025-05-19 20:10:28 +0000",
+      "atmospheric:atmospheric:snowy_scrubland": "2025-05-19 20:29:26 +0000",
       "minecraft:forest": "2025-05-18 01:56:14 +0000",
       "minecraft:desert": "2025-05-18 01:55:20 +0000",
       "minecraft:ocean": "2025-05-19 20:04:31 +0000",
@@ -630,6 +631,7 @@
       "minecraft:pillager": "2025-05-19 19:55:41 +0000",
       "minecraft:skeleton": "2025-05-19 19:54:14 +0000",
       "minecraft:vindicator": "2025-05-19 19:55:31 +0000",
+      "minecraft:spider": "2025-05-19 20:30:37 +0000",
       "minecraft:zombie": "2025-05-19 19:54:04 +0000",
       "minecraft:zombie_villager": "2025-05-19 20:15:28 +0000"
     },
@@ -756,15 +758,21 @@
     },
     "done": true
   },
+  "tombstone:adventure/funeral_theft": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 20:23:37 +0000"
+    },
+    "done": true
+  },
   "mowziesmobs:kill_frostmaw": {
     "criteria": {
       "frostmaw": "2025-05-19 20:24:11 +0000"
     },
     "done": true
   },
-  "tombstone:adventure/funeral_theft": {
+  "alexscaves:alexscaves/sugar_rush": {
     "criteria": {
-      "coded_trigger": "2025-05-19 20:23:37 +0000"
+      "all_effects": "2025-05-19 20:26:30 +0000"
     },
     "done": true
   },

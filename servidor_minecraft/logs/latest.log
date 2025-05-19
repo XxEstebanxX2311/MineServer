@@ -5124,3 +5124,50 @@ ModdedBiomeSource (7b5c8d77)
 [19May2025 20:28:13.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Esteban_xX has made the advancement [A Strange Grave Dust]
 [19May2025 20:28:15.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 fell from a high place
 [19May2025 20:28:15.678] [Server thread/INFO] [tombstone/]: The player ItsGermanXD137 has successfully been saved
+[19May2025 20:29:17.667] [Worker-Main-22/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. MutableBlockPos{x=-2288, y=-24, z=-669}
+[19May2025 20:29:26.458] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-2289, y=-47, z=-868}
+[19May2025 20:29:36.655] [pool-7-thread-5/INFO] [Supplementaries/]: Searching for closest structure among [ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/forgotten], ResourceKey[minecraft:worldgen/structure / biomeswevegone:village/red_rock], ResourceKey[minecraft:worldgen/structure / integrated_villages:oasis_village], ResourceKey[minecraft:worldgen/structure / idas:beekeepers_house], ResourceKey[minecraft:worldgen/structure / integrated_villages:cabin_village], ResourceKey[minecraft:worldgen/structure / minecraft:village_snowy], ResourceKey[minecraft:worldgen/structure / integrated_villages:airship_village], ResourceKey[minecraft:worldgen/structure / integrated_villages:mediterranean_village]] from pos BlockPos{x=-2373, y=83, z=-469}
+[19May2025 20:29:40.642] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2714ms or 54 ticks behind
+[19May2025 20:29:40.850] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGermanXD137 moved too quickly! -9.830752477403621,-1.4199999868869781,2.921677624569952
+[19May2025 20:29:41.583] [Worker-Main-25/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/villager_random which is being called from not a SinglePoolElement class
+[19May2025 20:29:41.587] [Worker-Main-25/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/villager_random which is being called from not a SinglePoolElement class
+[19May2025 20:29:41.587] [Worker-Main-25/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/villager_random which is being called from not a SinglePoolElement class
+[19May2025 20:29:41.662] [Worker-Main-25/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/house/fisherman_lecturn which is being called from integrated_villages:cabin_village/house/cabin_village_fisherman_bottom
+[19May2025 20:29:41.685] [Worker-Main-25/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/villager_random which is being called from not a SinglePoolElement class
+[19May2025 20:29:41.685] [Worker-Main-25/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/villager_random which is being called from not a SinglePoolElement class
+[19May2025 20:29:41.686] [Worker-Main-25/WARN] [com.craisinlord.integrated_api.IntegratedAPI/]: Integrated API: Empty or nonexistent pool: integrated_villages:cabin_village/villager_random which is being called from not a SinglePoolElement class
+[19May2025 20:29:44.099] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Set own game mode to Creative Mode]
+[19May2025 20:30:28.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Set own game mode to Survival Mode]
+[19May2025 20:31:06.848] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGermanXD137 lost connection: Disconnected
+[19May2025 20:31:06.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 left the game
+[19May2025 20:31:06.849] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9c0c0d0e-4246-3876-8ed8-bf20a695d3d0
+[19May2025 20:32:52.186] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:forlorn_hollows at 3624 -40 156 in 3s
+[19May2025 20:32:52.198] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2770ms or 55 ticks behind
+[19May2025 20:35:18.868] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGermanXD137[/127.220.108.12:49401] logged in with entity id 41555 at (-2282.8793701577915, 64.0, -589.9022735308027)
+[19May2025 20:35:18.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 joined the game
+[19May2025 20:35:18.945] [Server thread/INFO] [Jade/]: Syncing config to ItsGermanXD137 (9c0c0d0e-4246-3876-8ed8-bf20a695d3d0)
+[19May2025 20:35:18.994] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9c0c0d0e-4246-3876-8ed8-bf20a695d3d0
+[19May2025 20:35:27.223] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19May2025 20:35:27.223] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19May2025 20:35:27.224] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19May2025 20:35:27.225] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19May2025 20:35:27.225] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19May2025 20:35:27.226] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19May2025 20:35:27.226] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19May2025 20:35:27.227] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19May2025 20:35:27.231] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19May2025 20:35:27.231] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19May2025 20:35:27.231] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MineServer/servidor_minecraft/bclib-sync (allowDelete=true)
+[19May2025 20:36:22.801] [Worker-Main-11/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:36:29.536] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/42352, l='ServerLevel[world]', x=-2511.50, y=56.00, z=-520.50]
+[19May2025 20:36:40.431] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/42826, l='ServerLevel[world]', x=-2527.50, y=49.00, z=-527.50]
+[19May2025 20:36:43.536] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/42912, l='ServerLevel[world]', x=-2523.50, y=62.00, z=-525.50]
+[19May2025 20:36:51.450] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Arid Sand'/43098, l='ServerLevel[world]', x=-2512.50, y=56.00, z=-522.50]
+[19May2025 20:36:51.782] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Arid Sand'/43099, l='ServerLevel[world]', x=-2510.50, y=56.00, z=-521.50]
+[19May2025 20:37:02.131] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Arid Sand'/43323, l='ServerLevel[world]', x=-2512.50, y=56.00, z=-521.50]
+[19May2025 20:37:44.725] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19May2025 20:37:44.801] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19May2025 20:37:44.959] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19May2025 20:37:45.060] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
+[19May2025 20:38:04.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has made the advancement [Pseudo-Bacon]
+[19May2025 20:38:18.574] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:abyssal_chasm at -185 2 -2763 in 1s
