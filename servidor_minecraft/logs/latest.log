@@ -4999,3 +4999,39 @@ ModdedBiomeSource (7b5c8d77)
 [19May2025 19:43:35.755] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MineServer/servidor_minecraft/bclib-sync (allowDelete=true)
 [19May2025 19:43:35.805] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13376ms or 267 ticks behind
 [19May2025 19:44:23.907] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Set own game mode to Survival Mode]
+[19May2025 19:49:32.696] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: The difficulty has been set to Hard]
+[19May2025 19:50:34.388] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@4d144bde[id=<null>,name=ItsGermanXD137,properties={},legacy=false] (/127.220.108.12:45245) lost connection: Disconnected
+[19May2025 19:50:43.207] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGermanXD137[/127.220.108.12:53161] logged in with entity id 2902 at (110.58819102807408, 108.0, -114.55209459758159)
+[19May2025 19:50:43.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 joined the game
+[19May2025 19:50:43.358] [Server thread/INFO] [Jade/]: Syncing config to ItsGermanXD137 (9c0c0d0e-4246-3876-8ed8-bf20a695d3d0)
+[19May2025 19:50:43.416] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9c0c0d0e-4246-3876-8ed8-bf20a695d3d0
+[19May2025 19:50:52.038] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19May2025 19:50:52.038] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19May2025 19:50:52.039] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19May2025 19:50:52.039] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19May2025 19:50:52.039] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19May2025 19:50:52.039] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19May2025 19:50:52.039] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19May2025 19:50:52.039] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19May2025 19:50:52.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19May2025 19:50:52.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19May2025 19:50:52.040] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MineServer/servidor_minecraft/bclib-sync (allowDelete=true)
+[19May2025 19:51:52.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Teleported ItsGermanXD137 to Xx_Esteban_xX]
+[19May2025 19:53:13.396] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGermanXD137 moved too quickly! 9.100139381269813,-5.176759275064242,-6.472423021344412
+[19May2025 19:53:49.726] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Teleported Xx_Esteban_xX to ItsGermanXD137]
+[19May2025 19:53:51.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has made the advancement [Masquerade]
+[19May2025 19:54:04.294] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has made the advancement [Monster Hunter]
+[19May2025 19:54:56.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Teleported Xx_Esteban_xX to ItsGermanXD137]
+[19May2025 19:55:31.419] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has made the advancement [Ambush]
+[19May2025 19:55:48.458] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has reached the goal [Fortuitous Militia]
+[19May2025 19:55:52.711] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Teleported Xx_Esteban_xX to ItsGermanXD137]
+[19May2025 19:56:00.125] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Esteban_xX was burnt to a crisp whilst fighting Xx_Esteban_xX
+[19May2025 19:56:00.221] [Server thread/INFO] [tombstone/]: The player Xx_Esteban_xX has successfully been saved
+[19May2025 19:56:07.111] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Teleported Xx_Esteban_xX to ItsGermanXD137]
+[19May2025 19:56:10.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has made the advancement [Creepie Crawly]
+[19May2025 19:56:40.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsGermanXD137: Teleported ItsGermanXD137 to Xx_Esteban_xX]
+[19May2025 19:56:41.011] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Esteban_xX has made the advancement [Magic Writing]
+[19May2025 19:56:41.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Esteban_xX has made the advancement [Tools of the Trade]
+[19May2025 19:57:14.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Teleported Xx_Esteban_xX to ItsGermanXD137]
+[19May2025 19:57:21.973] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Teleported Xx_Esteban_xX to ItsGermanXD137]
+[19May2025 19:57:35.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Teleported Xx_Esteban_xX to ItsGermanXD137]

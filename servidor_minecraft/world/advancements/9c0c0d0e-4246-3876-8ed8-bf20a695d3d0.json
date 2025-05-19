@@ -393,6 +393,7 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:badlands": "2025-05-18 01:55:19 +0000",
+      "minecraft:savanna_plateau": "2025-05-19 19:53:21 +0000",
       "minecraft:stony_peaks": "2025-05-18 01:56:10 +0000",
       "minecraft:lukewarm_ocean": "2025-05-18 01:56:33 +0000",
       "minecraft:river": "2025-05-18 01:55:17 +0000",
@@ -604,6 +605,25 @@
   "tombstone:adventure/first_knowledge": {
     "criteria": {
       "coded_trigger": "2025-05-18 02:43:48 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-05-19 19:53:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2025-05-19 19:54:14 +0000",
+      "minecraft:zombie": "2025-05-19 19:54:04 +0000"
+    },
+    "done": false
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-05-19 19:54:04 +0000"
     },
     "done": true
   },
