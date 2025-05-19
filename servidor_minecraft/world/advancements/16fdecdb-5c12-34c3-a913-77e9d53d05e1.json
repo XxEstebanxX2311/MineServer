@@ -392,11 +392,17 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-05-19 20:04:56 +0000",
       "minecraft:eroded_badlands": "2025-05-18 01:55:08 +0000",
       "minecraft:badlands": "2025-05-18 01:55:27 +0000",
       "minecraft:savanna_plateau": "2025-05-19 19:53:49 +0000",
+      "minecraft:beach": "2025-05-19 20:03:21 +0000",
       "minecraft:river": "2025-05-18 01:55:21 +0000",
+      "minecraft:lukewarm_ocean": "2025-05-19 19:57:22 +0000",
+      "minecraft:stony_shore": "2025-05-19 19:57:15 +0000",
       "minecraft:desert": "2025-05-18 01:55:28 +0000",
+      "minecraft:ocean": "2025-05-19 20:04:34 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-05-19 19:58:07 +0000",
       "minecraft:savanna": "2025-05-18 01:50:18 +0000"
     },
     "done": false
@@ -524,6 +530,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:skeleton": "2025-05-18 02:27:03 +0000",
+      "savage_and_ravage:creepie": "2025-05-19 19:55:56 +0000",
       "minecraft:spider": "2025-05-19 19:54:04 +0000",
       "minecraft:zombie": "2025-05-18 02:43:59 +0000"
     },
@@ -589,17 +596,42 @@
     },
     "done": true
   },
+  "irons_spellbooks:irons_spellbooks/ink_root": {
+    "criteria": {
+      "requirement": "2025-05-19 19:56:41 +0000"
+    },
+    "done": true
+  },
   "biomesoplenty:biomesoplenty/root": {
     "criteria": {
       "scrubland": "2025-05-19 19:55:11 +0000"
     },
     "done": true
   },
+  "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
+    "criteria": {
+      "biomeswevegone:lush_stacks": "2025-05-19 19:58:39 +0000",
+      "biomeswevegone:ironwood_gour": "2025-05-19 20:03:41 +0000"
+    },
+    "done": false
+  },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
       "scrubland": "2025-05-19 19:55:11 +0000"
     },
     "done": false
+  },
+  "biomeswevegone:biomeswevegone/adventure/root": {
+    "criteria": {
+      "biomeswevegone:lush_stacks": "2025-05-19 19:58:39 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-19 19:56:41 +0000"
+    },
+    "done": true
   },
   "DataVersion": 3465
 }
