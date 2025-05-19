@@ -597,6 +597,36 @@
     },
     "done": true
   },
+  "mowziesmobs:kill_umvuthana_raptor": {
+    "criteria": {
+      "umvuthana_raptor": "2025-05-19 20:21:27 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/emu": {
+    "criteria": {
+      "killed_by": "2025-05-19 20:16:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-05-19 20:24:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_book": {
+    "criteria": {
+      "cave_book": "2025-05-19 20:16:51 +0000"
+    },
+    "done": true
+  },
+  "slashblade:material/proudsoul": {
+    "criteria": {
+      "BrokenBlade": "2025-05-19 20:16:53 +0000"
+    },
+    "done": true
+  },
   "alexscaves:alexscaves/cave_codex": {
     "criteria": {
       "cave_codex": "2025-05-19 20:12:21 +0000"
@@ -624,7 +654,9 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "scrubland": "2025-05-19 19:55:11 +0000"
+      "scrubland": "2025-05-19 19:55:11 +0000",
+      "cold_desert": "2025-05-19 20:23:41 +0000",
+      "tundra": "2025-05-19 20:23:29 +0000"
     },
     "done": false
   },
@@ -634,9 +666,27 @@
     },
     "done": true
   },
+  "biomeswevegone:biomeswevegone/husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-19 20:16:53 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-05-19 20:16:22 +0000"
+    },
+    "done": true
+  },
   "tombstone:adventure/create_magic_scroll": {
     "criteria": {
       "has_magic_scroll": "2025-05-19 19:56:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2025-05-19 20:16:53 +0000"
     },
     "done": true
   },

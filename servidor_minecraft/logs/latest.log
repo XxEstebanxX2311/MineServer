@@ -5086,3 +5086,41 @@ ModdedBiomeSource (7b5c8d77)
 [19May2025 20:17:24.910] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGermanXD137 lost connection: Disconnected
 [19May2025 20:17:24.910] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 left the game
 [19May2025 20:17:24.912] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9c0c0d0e-4246-3876-8ed8-bf20a695d3d0
+[19May2025 20:21:27.343] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Esteban_xX has made the advancement [Masquerade]
+[19May2025 20:21:43.670] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGermanXD137[/127.220.108.12:38921] logged in with entity id 34810 at (-1964.5107173678405, 99.0, -649.3805963975524)
+[19May2025 20:21:43.768] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 joined the game
+[19May2025 20:21:43.807] [Server thread/INFO] [Jade/]: Syncing config to ItsGermanXD137 (9c0c0d0e-4246-3876-8ed8-bf20a695d3d0)
+[19May2025 20:21:43.889] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9c0c0d0e-4246-3876-8ed8-bf20a695d3d0
+[19May2025 20:21:52.309] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19May2025 20:21:52.309] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19May2025 20:21:52.310] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19May2025 20:21:52.310] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19May2025 20:21:52.310] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19May2025 20:21:52.310] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19May2025 20:21:52.311] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19May2025 20:21:52.311] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19May2025 20:21:52.313] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19May2025 20:21:52.313] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19May2025 20:21:52.313] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MineServer/servidor_minecraft/bclib-sync (allowDelete=true)
+[19May2025 20:22:49.410] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsGermanXD137: Set own game mode to Spectator Mode]
+[19May2025 20:23:23.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsGermanXD137: Set own game mode to Survival Mode]
+[19May2025 20:23:28.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Teleported Xx_Esteban_xX to ItsGermanXD137]
+[19May2025 20:23:37.214] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has made the advancement [Your First Receptacle]
+[19May2025 20:23:37.215] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has made the advancement [Funeral Theft]
+[19May2025 20:23:45.473] [Worker-Main-13/WARN] [net.minecraft.server.level.WorldGenRegion/]: Tried to access a block entity before it was created. BlockPos{x=-1713, y=-1, z=-627}
+[19May2025 20:24:05.551] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Teleported Xx_Esteban_xX to ItsGermanXD137]
+[19May2025 20:24:07.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Esteban_xX has made the advancement [Stone Age]
+[19May2025 20:24:11.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has completed the challenge [Rude Awakening]
+[19May2025 20:26:30.941] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has reached the goal [Sweet Sweet Speeding Up]
+[19May2025 20:27:22.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Esteban_xX has made the advancement [The Journey Begins]
+[19May2025 20:27:33.106] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:magnetic_caves at 10727 -56 3462 in 8s
+[19May2025 20:27:33.115] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2437ms or 48 ticks behind
+[19May2025 20:27:40.004] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGermanXD137 moved too quickly! -0.008642343446354062,21.11158501487131,-0.003077390752082465
+[19May2025 20:27:45.098] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGermanXD137 moved too quickly! 0.0,27.660031223867918,0.0
+[19May2025 20:27:48.548] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGermanXD137 moved too quickly! 0.0,23.41019824071759,0.0
+[19May2025 20:27:52.156] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGermanXD137 moved too quickly! 0.0,23.75605774700125,0.0
+[19May2025 20:27:55.801] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGermanXD137 moved too quickly! 0.0,24.088221229765622,0.0
+[19May2025 20:28:05.433] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: FallingBlockEntity['Falling Sand'/38465, l='ServerLevel[world]', x=-2169.50, y=58.00, z=-648.50]
+[19May2025 20:28:13.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Esteban_xX has made the advancement [A Strange Grave Dust]
+[19May2025 20:28:15.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 fell from a high place
+[19May2025 20:28:15.678] [Server thread/INFO] [tombstone/]: The player ItsGermanXD137 has successfully been saved
