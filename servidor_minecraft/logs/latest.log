@@ -5171,3 +5171,128 @@ ModdedBiomeSource (7b5c8d77)
 [19May2025 20:37:45.060] [Server thread/ERROR] [net.minecraft.Util/]: Invalid entity rotation: NaN, discarding.
 [19May2025 20:38:04.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has made the advancement [Pseudo-Bacon]
 [19May2025 20:38:18.574] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:abyssal_chasm at -185 2 -2763 in 1s
+[19May2025 20:38:34.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Teleported Xx_Esteban_xX to ItsGermanXD137]
+[19May2025 20:38:46.792] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id 
+[19May2025 20:38:49.801] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Set own game mode to Creative Mode]
+[19May2025 20:38:49.802] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Set ItsGermanXD137's game mode to Creative Mode]
+[19May2025 20:38:50.877] [Worker-Main-11/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-2782, y=70, z=101}
+[19May2025 20:38:50.877] [Worker-Main-11/ERROR] [Supplementaries/]: Failed to load textholder data for block at BlockPos{x=-2782, y=70, z=102}
+[19May2025 20:39:03.405] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Set own game mode to Survival Mode]
+[19May2025 20:39:17.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has made the advancement [The Journey Begins]
+[19May2025 20:39:22.909] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Set ItsGermanXD137's game mode to Survival Mode]
+[19May2025 20:39:30.269] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id iceandfire:troll
+[19May2025 20:39:49.141] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Set own game mode to Creative Mode]
+[19May2025 20:40:13.475] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Set own game mode to Survival Mode]
+[19May2025 20:41:30.742] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:41:31.001] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:41:31.003] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:41:31.861] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has made the advancement [Tools of the Trade]
+[19May2025 20:42:05.063] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:42:05.342] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:42:05.342] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:42:05.342] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:42:05.345] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:42:05.637] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:42:15.232] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6104ms or 122 ticks behind
+[19May2025 20:42:57.646] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:44:02.579] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Xx_Esteban_xX lost connection: Disconnected
+[19May2025 20:44:02.580] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Esteban_xX left the game
+[19May2025 20:44:02.580] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 16fdecdb-5c12-34c3-a913-77e9d53d05e1
+[19May2025 20:44:02.708] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsGermanXD137: Kicked Xx_Esteban_xX: java:timeout]
+[19May2025 20:44:02.736] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[19May2025 20:44:25.516] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx_Esteban_xX[/127.13.117.198:45161] logged in with entity id 51293 at (113.20568400152288, 108.0, -110.5998896069495)
+[19May2025 20:44:25.572] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Esteban_xX joined the game
+[19May2025 20:44:25.620] [Server thread/INFO] [Jade/]: Syncing config to Xx_Esteban_xX (16fdecdb-5c12-34c3-a913-77e9d53d05e1)
+[19May2025 20:44:25.666] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 16fdecdb-5c12-34c3-a913-77e9d53d05e1
+[19May2025 20:44:26.113] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19May2025 20:44:26.113] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19May2025 20:44:26.113] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19May2025 20:44:26.114] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19May2025 20:44:26.114] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19May2025 20:44:26.114] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19May2025 20:44:26.114] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19May2025 20:44:26.114] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19May2025 20:44:26.118] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19May2025 20:44:26.118] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19May2025 20:44:26.118] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MineServer/servidor_minecraft/bclib-sync (allowDelete=true)
+[19May2025 20:45:18.659] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[19May2025 20:45:18.660] [Worker-Main-28/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:box_turtle"}
+[19May2025 20:45:18.660] [Worker-Main-28/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:starshell_turtle"}
+[19May2025 20:45:18.660] [Worker-Main-28/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:arrau_turtle"}
+[19May2025 20:45:18.660] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[19May2025 20:45:18.661] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[19May2025 20:45:18.661] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[19May2025 20:45:18.661] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[19May2025 20:45:18.661] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[19May2025 20:45:18.661] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[19May2025 20:45:18.661] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:box_turtle
+[19May2025 20:45:18.661] [Worker-Main-28/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculture:iron_fillet_knife",tag:{Damage:0}}
+[19May2025 20:45:18.661] [Worker-Main-28/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[19May2025 20:45:18.661] [Worker-Main-28/WARN] [net.minecraft.world.entity.decoration.ItemFrame/]: Unable to load item from: {Count:1b,id:"aquaculturedelight:turtle_meat_dish"}
+[19May2025 20:45:18.662] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[19May2025 20:45:18.662] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[19May2025 20:45:18.662] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[19May2025 20:45:18.662] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id aquaculture:arrau_turtle
+[19May2025 20:45:29.669] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Kicked ItsGermanXD137: hijo de la chingada tengo el panel de comandos abierto >:v]
+[19May2025 20:45:29.699] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGermanXD137 lost connection: hijo de la chingada tengo el panel de comandos abierto >:v
+[19May2025 20:45:29.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 left the game
+[19May2025 20:45:29.700] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9c0c0d0e-4246-3876-8ed8-bf20a695d3d0
+[19May2025 20:46:35.288] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5353491[id=<null>,name=ItsGermanXD137,properties={},legacy=false] (/127.220.108.12:55329) lost connection: Disconnected
+[19May2025 20:46:54.949] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGermanXD137[/127.220.108.12:43519] logged in with entity id 53600 at (-5143.740845027921, 64.21070456921865, 1670.785232399674)
+[19May2025 20:46:55.002] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 joined the game
+[19May2025 20:46:55.029] [Server thread/INFO] [Jade/]: Syncing config to ItsGermanXD137 (9c0c0d0e-4246-3876-8ed8-bf20a695d3d0)
+[19May2025 20:46:55.078] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9c0c0d0e-4246-3876-8ed8-bf20a695d3d0
+[19May2025 20:46:55.332] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[19May2025 20:46:55.332] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[19May2025 20:46:55.332] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[19May2025 20:46:55.333] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[19May2025 20:46:55.333] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[19May2025 20:46:55.333] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[19May2025 20:46:55.333] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[19May2025 20:46:55.333] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[19May2025 20:46:55.333] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[19May2025 20:46:55.333] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[19May2025 20:46:55.333] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MineServer/servidor_minecraft/bclib-sync (allowDelete=true)
+[19May2025 20:47:05.650] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:toxic_caves at 56 -16 2140 in 2s
+[19May2025 20:47:05.664] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2235ms or 44 ticks behind
+[19May2025 20:47:06.792] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-5091, y=-27, z=1766}
+[19May2025 20:47:06.792] [Server thread/ERROR] [net.minecraft.Util/]: POI data mismatch: already registered at BlockPos{x=-5093, y=-27, z=1766}
+[19May2025 20:47:37.926] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:37.926] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:39.845] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:43.914] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:44.275] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:44.278] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:44.687] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:44.691] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:52.299] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:52.524] [Worker-Main-26/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:52.524] [Worker-Main-26/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:54.092] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:54.311] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:55.004] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:55.265] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:55.265] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:55.267] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:55.267] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:55.480] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:55.481] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:55.483] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:57.190] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:59.003] [Worker-Main-21/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:59.418] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:59.418] [Worker-Main-13/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:47:59.670] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
+[19May2025 20:48:02.996] [Worker-Main-26/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:48:02.997] [Worker-Main-26/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:48:02.997] [Worker-Main-26/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:48:03.036] [Worker-Main-26/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:48:03.817] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:48:03.818] [Worker-Main-19/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:48:10.891] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:48:10.905] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:48:10.905] [Worker-Main-28/WARN] [net.minecraft.world.entity.EntityType/]: Skipping Entity with id guardvillagers:guard
+[19May2025 20:48:12.359] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has made the advancement [Cover Me with Diamonds]
+[19May2025 20:48:32.789] [Server thread/INFO] [com.github.alexmodguy.alexscaves.AlexsCaves/]: Found alexscaves:primordial_caves at 3168 -56 1604 in 4s
+[19May2025 20:48:32.823] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3045ms or 60 ticks behind
+[19May2025 20:48:37.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Teleported Xx_Esteban_xX to ItsGermanXD137]
