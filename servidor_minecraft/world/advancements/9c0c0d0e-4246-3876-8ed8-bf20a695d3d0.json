@@ -392,13 +392,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-05-19 23:59:20 +0000",
       "minecraft:taiga": "2025-05-19 20:12:14 +0000",
       "minecraft:deep_ocean": "2025-05-19 20:04:54 +0000",
+      "minecraft:eroded_badlands": "2025-05-19 21:46:19 +0000",
       "minecraft:frozen_river": "2025-05-19 20:37:06 +0000",
       "atmospheric:atmospheric:petrified_dunes": "2025-05-19 20:59:24 +0000",
       "minecraft:badlands": "2025-05-18 01:55:19 +0000",
       "minecraft:savanna_plateau": "2025-05-19 19:53:21 +0000",
       "minecraft:beach": "2025-05-19 20:02:41 +0000",
+      "environmental:environmental:blossom_woods": "2025-05-19 22:58:32 +0000",
       "minecraft:stony_peaks": "2025-05-18 01:56:10 +0000",
       "minecraft:sparse_jungle": "2025-05-19 20:44:39 +0000",
       "minecraft:lukewarm_ocean": "2025-05-18 01:56:33 +0000",
@@ -410,15 +413,19 @@
       "atmospheric:atmospheric:snowy_scrubland": "2025-05-19 20:29:26 +0000",
       "minecraft:forest": "2025-05-18 01:56:14 +0000",
       "environmental:environmental:pine_barrens": "2025-05-19 20:42:27 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-19 22:13:45 +0000",
+      "autumnity:autumnity:maple_forest": "2025-05-19 22:07:14 +0000",
       "minecraft:frozen_ocean": "2025-05-19 20:37:19 +0000",
       "minecraft:desert": "2025-05-18 01:55:20 +0000",
+      "minecraft:deep_frozen_ocean": "2025-05-19 23:23:13 +0000",
       "minecraft:ocean": "2025-05-19 20:04:31 +0000",
       "minecraft:snowy_beach": "2025-05-19 20:40:48 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-19 19:57:51 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-19 20:44:38 +0000",
       "atmospheric:atmospheric:dunes": "2025-05-19 20:59:23 +0000",
       "minecraft:savanna": "2025-05-18 01:52:57 +0000",
-      "minecraft:plains": "2025-05-19 20:05:24 +0000"
+      "minecraft:plains": "2025-05-19 20:05:24 +0000",
+      "autumnity:autumnity:pumpkin_fields": "2025-05-19 22:07:08 +0000"
     },
     "done": false
   },
@@ -472,14 +479,23 @@
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
+      "woodland": "2025-05-19 22:05:24 +0000",
+      "shrubland": "2025-05-19 22:06:23 +0000",
       "scrubland": "2025-05-18 01:57:04 +0000",
       "cold_desert": "2025-05-19 20:14:10 +0000",
       "old_growth_woodland": "2025-05-19 20:58:51 +0000",
       "field": "2025-05-19 20:09:39 +0000",
       "mediterranean_forest": "2025-05-19 20:49:16 +0000",
       "coniferous_forest": "2025-05-19 20:10:19 +0000",
+      "dryland": "2025-05-19 21:07:58 +0000",
       "wasteland": "2025-05-19 20:59:28 +0000",
+      "lush_desert": "2025-05-19 21:08:10 +0000",
+      "redwood_forest": "2025-05-19 22:58:56 +0000",
       "wasteland_steppe": "2025-05-19 20:59:54 +0000",
+      "seasonal_orchard": "2025-05-19 23:05:10 +0000",
+      "dune_beach": "2025-05-19 22:07:05 +0000",
+      "seasonal_forest": "2025-05-19 22:59:30 +0000",
+      "lavender_field": "2025-05-19 22:59:12 +0000",
       "tundra": "2025-05-19 20:15:05 +0000"
     },
     "done": false
@@ -644,9 +660,11 @@
     "criteria": {
       "minecraft:pillager": "2025-05-19 19:55:41 +0000",
       "minecraft:skeleton": "2025-05-19 19:54:14 +0000",
+      "minecraft:elder_guardian": "2025-05-19 22:23:55 +0000",
       "minecraft:vindicator": "2025-05-19 19:55:31 +0000",
       "minecraft:spider": "2025-05-19 20:30:37 +0000",
       "minecraft:zombie": "2025-05-19 19:54:04 +0000",
+      "minecraft:drowned": "2025-05-19 22:27:24 +0000",
       "minecraft:zombie_villager": "2025-05-19 20:15:28 +0000"
     },
     "done": false
@@ -677,8 +695,11 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:cika_woods": "2025-05-19 23:59:31 +0000",
+      "biomeswevegone:mojave_desert": "2025-05-19 21:05:33 +0000",
       "biomeswevegone:sakura_grove": "2025-05-19 20:43:40 +0000",
       "biomeswevegone:enchanted_tangle": "2025-05-19 20:44:45 +0000",
+      "biomeswevegone:zelkova_forest": "2025-05-19 23:53:09 +0000",
       "biomeswevegone:forgotten_forest": "2025-05-19 20:08:44 +0000",
       "biomeswevegone:lush_stacks": "2025-05-19 19:58:38 +0000",
       "biomeswevegone:coconino_meadow": "2025-05-19 20:43:21 +0000",
@@ -816,6 +837,12 @@
     },
     "done": true
   },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_leggings": "2025-05-19 20:48:12 +0000"
+    },
+    "done": true
+  },
   "integrated_villages:airship_village": {
     "criteria": {
       "in_airship_village": "2025-05-19 20:50:09 +0000"
@@ -834,9 +861,261 @@
     },
     "done": false
   },
-  "minecraft:story/shiny_gear": {
+  "integrated_villages:oasis_village": {
     "criteria": {
-      "diamond_leggings": "2025-05-19 20:48:12 +0000"
+      "in_oasis_village": "2025-05-19 21:08:20 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:find_cursed_pyramid": {
+    "criteria": {
+      "pyramid": "2025-05-19 21:17:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_grave_dust": {
+    "criteria": {
+      "has_ingredient": "2025-05-19 21:17:41 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 21:24:30 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:kill_remnant": {
+    "criteria": {
+      "ignis": "2025-05-19 21:25:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_undead": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 21:25:42 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_scroll": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-19 21:26:22 +0000"
+    },
+    "done": true
+  },
+  "beautify:blinds": {
+    "criteria": {
+      "requirement": "2025-05-19 21:40:54 +0000"
+    },
+    "done": true
+  },
+  "beautify:trellis": {
+    "criteria": {
+      "requirement": "2025-05-19 21:40:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_decorative_grave": {
+    "criteria": {
+      "has_decorative_grave": "2025-05-19 21:41:21 +0000"
+    },
+    "done": true
+  },
+  "tombstone:recipes/from_decorative_grave": {
+    "criteria": {
+      "has_ingredient": "2025-05-19 21:41:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-05-19 21:43:16 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_true_sight": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-19 21:44:54 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_aquatic_life": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-19 21:45:02 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_purification": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-19 21:45:18 +0000"
+    },
+    "done": true
+  },
+  "idas:bearclaw_inn": {
+    "criteria": {
+      "in_bearclaw_inn": "2025-05-19 22:09:51 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_chasm": {
+    "criteria": {
+      "discover": "2025-05-19 22:12:53 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/lich_prison": {
+    "criteria": {
+      "lich_prison": "2025-05-19 22:14:22 +0000"
+    },
+    "done": true
+  },
+  "idas:sunken_ship": {
+    "criteria": {
+      "in_sunken_ship": "2025-05-19 22:27:12 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/discover_abyssal_ruins": {
+    "criteria": {
+      "abyssal_ruins": "2025-05-19 22:32:24 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/ride_submarine": {
+    "criteria": {
+      "ride_a_boat_with_a_goat": "2025-05-19 22:33:50 +0000"
+    },
+    "done": true
+  },
+  "caverns_and_chasms:adventure/dont_move": {
+    "criteria": {
+      "spotted_by_peeper": "2025-05-19 22:35:44 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/defeat_mine_guardian": {
+    "criteria": {
+      "killed": "2025-05-19 22:37:11 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/diving_armor": {
+    "criteria": {
+      "helmet": "2025-05-19 22:37:33 +0000"
+    },
+    "done": false
+  },
+  "alexscaves:alexscaves/stalked_by_deep_one": {
+    "criteria": {
+      "stalked_by_deep_one": "2025-05-19 22:42:07 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/pearl": {
+    "criteria": {
+      "pearl": "2025-05-19 22:43:48 +0000"
+    },
+    "done": true
+  },
+  "mowziesmobs:suns_blessing": {
+    "criteria": {
+      "get_suns_blessing": "2025-05-19 22:47:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_diamond": {
+    "criteria": {
+      "diamond": "2025-05-19 23:04:05 +0000"
+    },
+    "done": true
+  },
+  "immersive_aircraft:misc/aircraftery": {
+    "criteria": {
+      "has_item": "2025-05-19 23:04:06 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/smelt_iron": {
+    "criteria": {
+      "iron": "2025-05-19 23:04:06 +0000"
+    },
+    "done": true
+  },
+  "beautify:iron_blinds": {
+    "criteria": {
+      "requirement": "2025-05-19 23:04:06 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/sea_stew": {
+    "criteria": {
+      "has_item": "2025-05-19 23:15:43 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/consume_sea_stew": {
+    "criteria": {
+      "sea_stew": "2025-05-19 23:15:46 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_dagger_of_greed": {
+    "criteria": {
+      "dagger_of_greed": "2025-05-19 23:16:57 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_shell_horn": {
+    "criteria": {
+      "shell_horn": "2025-05-19 23:17:36 +0000"
+    },
+    "done": true
+  },
+  "garnished:hatchets": {
+    "criteria": {
+      "hatchets": "2025-05-19 23:19:39 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-05-19 23:22:01 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-05-19 23:22:01 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-05-19 23:23:13 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/crypt": {
+    "criteria": {
+      "crypt": "2025-05-19 23:24:20 +0000"
+    },
+    "done": true
+  },
+  "yungscavebiomes:frosted_caves": {
+    "criteria": {
+      "frosted_caves": "2025-05-19 23:24:38 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/kill_wraith": {
+    "criteria": {
+      "wraith": "2025-05-19 23:26:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/village_defender": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 23:35:58 +0000"
     },
     "done": true
   },

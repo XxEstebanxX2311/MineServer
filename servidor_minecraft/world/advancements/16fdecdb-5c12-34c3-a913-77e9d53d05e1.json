@@ -734,18 +734,6 @@
     },
     "done": true
   },
-  "supplementaries:adventure/way_sign": {
-    "criteria": {
-      "bastion": "2025-05-19 20:56:49 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/magic_siphoner": {
-    "criteria": {
-      "coded_trigger": "2025-05-19 20:55:20 +0000"
-    },
-    "done": true
-  },
   "the_bumblezone:teleportation/is_near_beehive": {
     "criteria": {
       "is_near_beehive": "2025-05-19 20:50:20 +0000"
@@ -761,6 +749,18 @@
   "alexsmobs:alexsmobs/seagull_steal": {
     "criteria": {
       "ex": "2025-05-19 20:55:05 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-05-19 20:55:20 +0000"
+    },
+    "done": true
+  },
+  "supplementaries:adventure/way_sign": {
+    "criteria": {
+      "bastion": "2025-05-19 20:56:49 +0000"
     },
     "done": true
   },
