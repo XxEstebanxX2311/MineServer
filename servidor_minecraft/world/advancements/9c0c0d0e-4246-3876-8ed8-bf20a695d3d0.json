@@ -392,29 +392,35 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "environmental:environmental:snowy_old_growth_pine_barrens": "2025-05-20 02:38:13 +0000",
       "minecraft:old_growth_pine_taiga": "2025-05-19 23:59:20 +0000",
       "minecraft:taiga": "2025-05-19 20:12:14 +0000",
       "minecraft:deep_ocean": "2025-05-19 20:04:54 +0000",
       "minecraft:eroded_badlands": "2025-05-19 21:46:19 +0000",
       "minecraft:frozen_river": "2025-05-19 20:37:06 +0000",
+      "minecraft:windswept_hills": "2025-05-20 02:38:09 +0000",
       "atmospheric:atmospheric:petrified_dunes": "2025-05-19 20:59:24 +0000",
       "minecraft:badlands": "2025-05-18 01:55:19 +0000",
       "minecraft:savanna_plateau": "2025-05-19 19:53:21 +0000",
       "minecraft:beach": "2025-05-19 20:02:41 +0000",
       "environmental:environmental:blossom_woods": "2025-05-19 22:58:32 +0000",
       "minecraft:stony_peaks": "2025-05-18 01:56:10 +0000",
+      "environmental:environmental:old_growth_pine_barrens": "2025-05-20 02:40:42 +0000",
       "minecraft:sparse_jungle": "2025-05-19 20:44:39 +0000",
       "minecraft:lukewarm_ocean": "2025-05-18 01:56:33 +0000",
       "minecraft:river": "2025-05-18 01:55:17 +0000",
       "minecraft:stony_shore": "2025-05-18 01:56:53 +0000",
       "minecraft:snowy_plains": "2025-05-19 20:38:15 +0000",
       "minecraft:snowy_taiga": "2025-05-19 20:40:16 +0000",
+      "environmental:environmental:blossom_valleys": "2025-05-20 02:31:50 +0000",
+      "atmospheric:atmospheric:rainforest": "2025-05-20 02:28:50 +0000",
       "minecraft:cold_ocean": "2025-05-19 20:10:28 +0000",
       "atmospheric:atmospheric:snowy_scrubland": "2025-05-19 20:29:26 +0000",
       "minecraft:forest": "2025-05-18 01:56:14 +0000",
       "environmental:environmental:pine_barrens": "2025-05-19 20:42:27 +0000",
       "minecraft:deep_cold_ocean": "2025-05-19 22:13:45 +0000",
       "autumnity:autumnity:maple_forest": "2025-05-19 22:07:14 +0000",
+      "environmental:environmental:pine_slopes": "2025-05-20 02:35:40 +0000",
       "minecraft:frozen_ocean": "2025-05-19 20:37:19 +0000",
       "minecraft:desert": "2025-05-18 01:55:20 +0000",
       "minecraft:deep_frozen_ocean": "2025-05-19 23:23:13 +0000",
@@ -481,10 +487,14 @@
     "criteria": {
       "woodland": "2025-05-19 22:05:24 +0000",
       "shrubland": "2025-05-19 22:06:23 +0000",
+      "rocky_shrubland": "2025-05-20 02:33:21 +0000",
       "scrubland": "2025-05-18 01:57:04 +0000",
+      "highland": "2025-05-20 02:32:19 +0000",
+      "clover_patch": "2025-05-20 02:31:20 +0000",
       "cold_desert": "2025-05-19 20:14:10 +0000",
       "old_growth_woodland": "2025-05-19 20:58:51 +0000",
       "field": "2025-05-19 20:09:39 +0000",
+      "orchard": "2025-05-20 02:33:45 +0000",
       "mediterranean_forest": "2025-05-19 20:49:16 +0000",
       "coniferous_forest": "2025-05-19 20:10:19 +0000",
       "dryland": "2025-05-19 21:07:58 +0000",
@@ -495,8 +505,13 @@
       "seasonal_orchard": "2025-05-19 23:05:10 +0000",
       "dune_beach": "2025-05-19 22:07:05 +0000",
       "seasonal_forest": "2025-05-19 22:59:30 +0000",
+      "pasture": "2025-05-20 02:34:38 +0000",
+      "rocky_rainforest": "2025-05-20 02:29:02 +0000",
       "lavender_field": "2025-05-19 22:59:12 +0000",
-      "tundra": "2025-05-19 20:15:05 +0000"
+      "grassland": "2025-05-20 02:29:05 +0000",
+      "prairie": "2025-05-20 02:34:24 +0000",
+      "tundra": "2025-05-19 20:15:05 +0000",
+      "rainforest": "2025-05-20 02:26:29 +0000"
     },
     "done": false
   },
@@ -663,6 +678,8 @@
       "minecraft:elder_guardian": "2025-05-19 22:23:55 +0000",
       "minecraft:vindicator": "2025-05-19 19:55:31 +0000",
       "minecraft:spider": "2025-05-19 20:30:37 +0000",
+      "minecraft:evoker": "2025-05-20 01:14:54 +0000",
+      "caverns_and_chasms:mime": "2025-05-20 01:11:30 +0000",
       "minecraft:zombie": "2025-05-19 19:54:04 +0000",
       "minecraft:drowned": "2025-05-19 22:27:24 +0000",
       "minecraft:zombie_villager": "2025-05-19 20:15:28 +0000"
@@ -710,10 +727,13 @@
       "biomeswevegone:ebony_woods": "2025-05-19 20:45:03 +0000",
       "biomeswevegone:basalt_barrera": "2025-05-19 20:08:16 +0000",
       "biomeswevegone:dacite_ridges": "2025-05-19 20:42:51 +0000",
+      "biomeswevegone:shattered_glacier": "2025-05-20 02:41:09 +0000",
       "biomeswevegone:dacite_shore": "2025-05-19 20:09:44 +0000",
       "biomeswevegone:skyrise_vale": "2025-05-19 20:08:34 +0000",
       "biomeswevegone:dead_sea": "2025-05-19 20:52:00 +0000",
-      "biomeswevegone:allium_shrubland": "2025-05-19 20:08:12 +0000"
+      "biomeswevegone:allium_shrubland": "2025-05-19 20:08:12 +0000",
+      "biomeswevegone:pumpkin_valley": "2025-05-20 00:52:51 +0000",
+      "biomeswevegone:coniferous_forest": "2025-05-20 02:08:31 +0000"
     },
     "done": false
   },
@@ -1116,6 +1136,210 @@
   "tombstone:adventure/village_defender": {
     "criteria": {
       "coded_trigger": "2025-05-19 23:35:58 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/pirate_pouch": {
+    "criteria": {
+      "has_item": "2025-05-20 00:55:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/iron_tools": {
+    "criteria": {
+      "iron_pickaxe": "2025-05-20 00:58:43 +0000"
+    },
+    "done": true
+  },
+  "atmospheric:husbandry/spit_passion_fruit": {
+    "criteria": {
+      "spit_passion_fruit": "2025-05-20 01:01:54 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/spinefish": {
+    "criteria": {
+      "has_item": "2025-05-20 01:11:42 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/ship_graveyard_echo": {
+    "criteria": {
+      "has_item": "2025-05-20 01:11:43 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2025-05-20 01:12:31 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2025-05-20 01:12:31 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_preservation": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-20 01:14:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_knowledge": {
+    "criteria": {
+      "coded_trigger": "2025-05-20 01:16:02 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/tigers_blessing": {
+    "criteria": {
+      "all_effects": "2025-05-20 01:19:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/magic_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-05-20 01:22:49 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/three_bolt_helmet": {
+    "criteria": {
+      "has_item": "2025-05-20 01:23:35 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_frozen_key": {
+    "criteria": {
+      "frozen_key": "2025-05-20 01:23:37 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/oxygen_tank": {
+    "criteria": {
+      "has_item": "2025-05-20 01:24:53 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/remnants_saber": {
+    "criteria": {
+      "has_item": "2025-05-20 01:25:05 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/orcas_might": {
+    "criteria": {
+      "all_effects": "2025-05-20 01:26:41 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_rune_of_the_storm": {
+    "criteria": {
+      "rune_of_the_storm": "2025-05-20 01:28:57 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/astral_dust": {
+    "criteria": {
+      "has_item": "2025-05-20 01:29:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_boots": "2025-05-20 01:42:01 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/mastery_1": {
+    "criteria": {
+      "coded_trigger": "2025-05-20 01:43:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/consume_soul": {
+    "criteria": {
+      "coded_trigger": "2025-05-20 01:43:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/revive_familiar": {
+    "criteria": {
+      "coded_trigger": "2025-05-20 01:43:20 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/master_siphoner": {
+    "criteria": {
+      "coded_trigger": "2025-05-20 01:43:42 +0000"
+    },
+    "done": true
+  },
+  "slashblade:enchantment/root": {
+    "criteria": {
+      "customtrigger": "2025-05-20 01:44:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/aerial_a": {
+    "criteria": {
+      "customtrigger": "2025-05-20 01:44:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade:enchantment/feather_falling": {
+    "criteria": {
+      "customtrigger": "2025-05-20 01:44:38 +0000"
+    },
+    "done": true
+  },
+  "slashblade:arts/combo_a": {
+    "criteria": {
+      "customtrigger": "2025-05-20 01:44:42 +0000"
+    },
+    "done": true
+  },
+  "slashblade:abilities/enemy_step": {
+    "criteria": {
+      "customtrigger": "2025-05-20 01:44:44 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-05-20 02:27:21 +0000"
+    },
+    "done": true
+  },
+  "estrogen:root": {
+    "criteria": {
+      "root": "2025-05-20 02:19:41 +0000"
+    },
+    "done": true
+  },
+  "integrated_villages:tavern_village": {
+    "criteria": {
+      "in_tavern_village": "2025-05-20 02:40:39 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-05-20 02:27:33 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/create_magic_tablet": {
+    "criteria": {
+      "has_magic_tablet": "2025-05-20 02:24:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/ol_betsy": {
+    "criteria": {
+      "shot_crossbow": "2025-05-20 02:17:44 +0000"
     },
     "done": true
   },

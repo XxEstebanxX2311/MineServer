@@ -394,20 +394,32 @@
     "criteria": {
       "minecraft:deep_ocean": "2025-05-19 20:04:56 +0000",
       "minecraft:eroded_badlands": "2025-05-18 01:55:08 +0000",
+      "minecraft:frozen_river": "2025-05-20 02:37:28 +0000",
       "atmospheric:atmospheric:petrified_dunes": "2025-05-19 20:54:55 +0000",
       "minecraft:badlands": "2025-05-18 01:55:27 +0000",
       "minecraft:savanna_plateau": "2025-05-19 19:53:49 +0000",
       "minecraft:beach": "2025-05-19 20:03:21 +0000",
+      "minecraft:sparse_jungle": "2025-05-20 02:22:04 +0000",
       "minecraft:river": "2025-05-18 01:55:21 +0000",
       "minecraft:lukewarm_ocean": "2025-05-19 19:57:22 +0000",
       "minecraft:snowy_plains": "2025-05-19 20:38:34 +0000",
       "minecraft:stony_shore": "2025-05-19 19:57:15 +0000",
+      "minecraft:cold_ocean": "2025-05-20 02:16:13 +0000",
+      "minecraft:forest": "2025-05-20 02:22:31 +0000",
+      "environmental:environmental:pine_barrens": "2025-05-20 02:34:07 +0000",
+      "minecraft:deep_cold_ocean": "2025-05-20 02:13:13 +0000",
+      "autumnity:autumnity:maple_forest": "2025-05-20 02:33:38 +0000",
+      "minecraft:frozen_ocean": "2025-05-20 02:35:22 +0000",
       "minecraft:desert": "2025-05-18 01:55:28 +0000",
       "atmospheric:atmospheric:scrubland": "2025-05-19 20:54:54 +0000",
+      "minecraft:deep_frozen_ocean": "2025-05-20 02:35:43 +0000",
       "minecraft:ocean": "2025-05-19 20:04:34 +0000",
+      "minecraft:snowy_beach": "2025-05-20 02:37:21 +0000",
       "minecraft:warm_ocean": "2025-05-19 20:52:36 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-05-19 19:58:07 +0000",
-      "minecraft:savanna": "2025-05-18 01:50:18 +0000"
+      "minecraft:windswept_gravelly_hills": "2025-05-20 02:39:20 +0000",
+      "minecraft:savanna": "2025-05-18 01:50:18 +0000",
+      "minecraft:plains": "2025-05-20 02:21:40 +0000"
     },
     "done": false
   },
@@ -615,12 +627,16 @@
     "criteria": {
       "woodland": "2025-05-19 20:58:50 +0000",
       "scrubland": "2025-05-19 19:55:11 +0000",
+      "clover_patch": "2025-05-20 02:30:53 +0000",
       "cold_desert": "2025-05-19 20:23:41 +0000",
       "old_growth_woodland": "2025-05-19 20:58:46 +0000",
       "mediterranean_forest": "2025-05-19 20:53:41 +0000",
+      "dryland": "2025-05-20 02:19:31 +0000",
       "wasteland": "2025-05-19 20:54:50 +0000",
       "wasteland_steppe": "2025-05-19 20:59:54 +0000",
-      "tundra": "2025-05-19 20:23:29 +0000"
+      "grassland": "2025-05-20 02:28:49 +0000",
+      "tundra": "2025-05-19 20:23:29 +0000",
+      "rainforest": "2025-05-20 02:26:09 +0000"
     },
     "done": false
   },
@@ -638,9 +654,17 @@
   },
   "biomeswevegone:biomeswevegone/adventure/oh_the_biomes_weve_gone": {
     "criteria": {
+      "biomeswevegone:temperate_grove": "2025-05-20 02:31:12 +0000",
       "biomeswevegone:lush_stacks": "2025-05-19 19:58:39 +0000",
       "biomeswevegone:ironwood_gour": "2025-05-19 20:03:41 +0000",
-      "biomeswevegone:dead_sea": "2025-05-19 20:52:09 +0000"
+      "biomeswevegone:basalt_barrera": "2025-05-20 02:31:05 +0000",
+      "biomeswevegone:aspen_boreal": "2025-05-20 02:33:21 +0000",
+      "biomeswevegone:shattered_glacier": "2025-05-20 02:37:40 +0000",
+      "biomeswevegone:skyrise_vale": "2025-05-20 02:33:43 +0000",
+      "biomeswevegone:dead_sea": "2025-05-19 20:52:09 +0000",
+      "biomeswevegone:allium_shrubland": "2025-05-20 02:31:18 +0000",
+      "biomeswevegone:baobab_savanna": "2025-05-20 02:24:04 +0000",
+      "biomeswevegone:crimson_tundra": "2025-05-20 02:39:14 +0000"
     },
     "done": false
   },
@@ -761,6 +785,72 @@
   "supplementaries:adventure/way_sign": {
     "criteria": {
       "bastion": "2025-05-19 20:56:49 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/fruits_of_the_field": {
+    "criteria": {
+      "fruits_of_the_field": "2025-05-20 02:21:40 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/fin": {
+    "criteria": {
+      "has_item": "2025-05-20 02:13:36 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_esca": {
+    "criteria": {
+      "esca": "2025-05-20 02:36:37 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/find_ice_maze": {
+    "criteria": {
+      "deep_frozen_ocean": "2025-05-20 02:35:43 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/root": {
+    "criteria": {
+      "grave_01": "2025-05-20 02:31:22 +0000"
+    },
+    "done": true
+  },
+  "garnished:dulse_kelp": {
+    "criteria": {
+      "obtain_dulse_kelp": "2025-05-20 02:36:36 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/obtain_fin": {
+    "criteria": {
+      "fin": "2025-05-20 02:13:36 +0000"
+    },
+    "done": true
+  },
+  "biomeswevegone:biomeswevegone/adventure/little_house_on_the_prairie": {
+    "criteria": {
+      "prairie_house": "2025-05-20 02:32:49 +0000"
+    },
+    "done": false
+  },
+  "tombstone:adventure/ashes_and_bones": {
+    "criteria": {
+      "coded_trigger": "2025-05-20 02:29:52 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/ink_legendary": {
+    "criteria": {
+      "requirement": "2025-05-20 02:28:00 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:recipes/esca": {
+    "criteria": {
+      "has_item": "2025-05-20 02:36:37 +0000"
     },
     "done": true
   },
