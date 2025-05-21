@@ -5900,3 +5900,10 @@ java.net.http.HttpTimeoutException: request timed out
 [21May2025 01:54:20.122] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/1790, l='ServerLevel[world]', x=106.00, y=31.00, z=-334.00] as it would cause deadlock
 [21May2025 01:54:20.354] [Worker-Main-40/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/1794, l='ServerLevel[world]', x=239.00, y=31.00, z=-325.00] as it would cause deadlock
 [21May2025 01:54:25.469] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/1967, l='ServerLevel[world]', x=246.00, y=31.00, z=-367.00] as it would cause deadlock
+[21May2025 01:55:40.102] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/3229, l='ServerLevel[world]', x=414.00, y=31.00, z=-190.00] as it would cause deadlock
+[21May2025 01:56:55.978] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has made the advancement [A Terrible Fortress]
+[21May2025 01:59:16.164] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/4572, l='ServerLevel[world]', x=369.00, y=31.00, z=-699.00] as it would cause deadlock
+[21May2025 01:59:44.544] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[21May2025 02:00:27.238] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGermanXD137 lost connection: Disconnected
+[21May2025 02:00:27.239] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 left the game
+[21May2025 02:00:27.240] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9c0c0d0e-4246-3876-8ed8-bf20a695d3d0

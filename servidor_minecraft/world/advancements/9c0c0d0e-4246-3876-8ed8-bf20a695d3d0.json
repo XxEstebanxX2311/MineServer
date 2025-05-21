@@ -514,6 +514,7 @@
       "snowy_coniferous_forest": "2025-05-20 02:52:19 +0000",
       "snowy_fir_clearing": "2025-05-20 02:52:42 +0000",
       "tundra": "2025-05-19 20:15:05 +0000",
+      "undergrowth": "2025-05-21 01:55:38 +0000",
       "rainforest": "2025-05-20 02:26:29 +0000"
     },
     "done": false
@@ -635,6 +636,7 @@
   "minecraft:nether/explore_nether": {
     "criteria": {
       "minecraft:crimson_forest": "2025-05-18 02:37:18 +0000",
+      "minecraft:nether_wastes": "2025-05-21 01:54:58 +0000",
       "minecraft:basalt_deltas": "2025-05-21 01:53:41 +0000"
     },
     "done": false
@@ -680,11 +682,13 @@
       "minecraft:pillager": "2025-05-19 19:55:41 +0000",
       "minecraft:skeleton": "2025-05-19 19:54:14 +0000",
       "minecraft:elder_guardian": "2025-05-19 22:23:55 +0000",
+      "minecraft:hoglin": "2025-05-21 01:56:25 +0000",
       "minecraft:vindicator": "2025-05-19 19:55:31 +0000",
       "minecraft:spider": "2025-05-19 20:30:37 +0000",
       "minecraft:evoker": "2025-05-20 01:14:54 +0000",
       "caverns_and_chasms:peeper": "2025-05-20 03:48:45 +0000",
       "minecraft:zombified_piglin": "2025-05-20 03:54:53 +0000",
+      "quark:wraith": "2025-05-21 01:59:23 +0000",
       "caverns_and_chasms:mime": "2025-05-20 01:11:30 +0000",
       "minecraft:zombie": "2025-05-19 19:54:04 +0000",
       "minecraft:drowned": "2025-05-19 22:27:24 +0000",
@@ -1413,6 +1417,18 @@
   "minecraft:nether/find_bastion": {
     "criteria": {
       "bastion": "2025-05-21 01:54:07 +0000"
+    },
+    "done": true
+  },
+  "create:burner": {
+    "criteria": {
+      "0": "2025-05-21 01:57:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-05-21 01:56:55 +0000"
     },
     "done": true
   },
