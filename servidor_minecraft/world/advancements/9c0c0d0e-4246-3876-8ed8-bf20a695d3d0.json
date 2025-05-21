@@ -429,6 +429,7 @@
       "minecraft:deep_lukewarm_ocean": "2025-05-19 19:57:51 +0000",
       "minecraft:old_growth_birch_forest": "2025-05-19 20:44:38 +0000",
       "atmospheric:atmospheric:dunes": "2025-05-19 20:59:23 +0000",
+      "minecraft:windswept_gravelly_hills": "2025-05-20 02:50:01 +0000",
       "minecraft:savanna": "2025-05-18 01:52:57 +0000",
       "minecraft:plains": "2025-05-19 20:05:24 +0000",
       "autumnity:autumnity:pumpkin_fields": "2025-05-19 22:07:08 +0000"
@@ -510,6 +511,8 @@
       "lavender_field": "2025-05-19 22:59:12 +0000",
       "grassland": "2025-05-20 02:29:05 +0000",
       "prairie": "2025-05-20 02:34:24 +0000",
+      "snowy_coniferous_forest": "2025-05-20 02:52:19 +0000",
+      "snowy_fir_clearing": "2025-05-20 02:52:42 +0000",
       "tundra": "2025-05-19 20:15:05 +0000",
       "rainforest": "2025-05-20 02:26:29 +0000"
     },
@@ -679,6 +682,8 @@
       "minecraft:vindicator": "2025-05-19 19:55:31 +0000",
       "minecraft:spider": "2025-05-19 20:30:37 +0000",
       "minecraft:evoker": "2025-05-20 01:14:54 +0000",
+      "caverns_and_chasms:peeper": "2025-05-20 03:48:45 +0000",
+      "minecraft:zombified_piglin": "2025-05-20 03:54:53 +0000",
       "caverns_and_chasms:mime": "2025-05-20 01:11:30 +0000",
       "minecraft:zombie": "2025-05-19 19:54:04 +0000",
       "minecraft:drowned": "2025-05-19 22:27:24 +0000",
@@ -728,6 +733,7 @@
       "biomeswevegone:basalt_barrera": "2025-05-19 20:08:16 +0000",
       "biomeswevegone:dacite_ridges": "2025-05-19 20:42:51 +0000",
       "biomeswevegone:shattered_glacier": "2025-05-20 02:41:09 +0000",
+      "biomeswevegone:frosted_coniferous_forest": "2025-05-20 03:01:46 +0000",
       "biomeswevegone:dacite_shore": "2025-05-19 20:09:44 +0000",
       "biomeswevegone:skyrise_vale": "2025-05-19 20:08:34 +0000",
       "biomeswevegone:dead_sea": "2025-05-19 20:52:00 +0000",
@@ -1307,9 +1313,9 @@
     },
     "done": true
   },
-  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+  "minecraft:adventure/ol_betsy": {
     "criteria": {
-      "anger_wizard": "2025-05-20 02:27:21 +0000"
+      "shot_crossbow": "2025-05-20 02:17:44 +0000"
     },
     "done": true
   },
@@ -1319,9 +1325,15 @@
     },
     "done": true
   },
-  "integrated_villages:tavern_village": {
+  "tombstone:adventure/create_magic_tablet": {
     "criteria": {
-      "in_tavern_village": "2025-05-20 02:40:39 +0000"
+      "has_magic_tablet": "2025-05-20 02:24:12 +0000"
+    },
+    "done": true
+  },
+  "irons_spellbooks:irons_spellbooks/steal_from_wizard": {
+    "criteria": {
+      "anger_wizard": "2025-05-20 02:27:21 +0000"
     },
     "done": true
   },
@@ -1331,15 +1343,63 @@
     },
     "done": true
   },
-  "tombstone:adventure/create_magic_tablet": {
+  "integrated_villages:tavern_village": {
     "criteria": {
-      "has_magic_tablet": "2025-05-20 02:24:12 +0000"
+      "in_tavern_village": "2025-05-20 02:40:39 +0000"
     },
     "done": true
   },
-  "minecraft:adventure/ol_betsy": {
+  "supplementaries:adventure/way_sign": {
     "criteria": {
-      "shot_crossbow": "2025-05-20 02:17:44 +0000"
+      "bastion": "2025-05-20 02:53:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2025-05-20 03:20:20 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_alloy": {
+    "criteria": {
+      "0": "2025-05-20 03:17:13 +0000"
+    },
+    "done": true
+  },
+  "create:andesite_casing": {
+    "criteria": {
+      "0": "2025-05-20 03:25:18 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/acacia_blossom": {
+    "criteria": {
+      "acacia_blossom": "2025-05-20 03:27:23 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_press": {
+    "criteria": {
+      "0": "2025-05-20 03:36:00 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed": "2025-05-20 03:18:33 +0000"
+    },
+    "done": true
+  },
+  "beautify:candelabras": {
+    "criteria": {
+      "requirement": "2025-05-20 03:17:09 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/strong_or_careful": {
+    "criteria": {
+      "coded_trigger": "2025-05-20 02:57:24 +0000"
     },
     "done": true
   },
