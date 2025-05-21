@@ -634,7 +634,8 @@
   },
   "minecraft:nether/explore_nether": {
     "criteria": {
-      "minecraft:crimson_forest": "2025-05-18 02:37:18 +0000"
+      "minecraft:crimson_forest": "2025-05-18 02:37:18 +0000",
+      "minecraft:basalt_deltas": "2025-05-21 01:53:41 +0000"
     },
     "done": false
   },
@@ -1355,15 +1356,33 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/fish_bones": {
+  "tombstone:adventure/strong_or_careful": {
     "criteria": {
-      "sopa_de_macaco": "2025-05-20 03:20:20 +0000"
+      "coded_trigger": "2025-05-20 02:57:24 +0000"
+    },
+    "done": true
+  },
+  "beautify:candelabras": {
+    "criteria": {
+      "requirement": "2025-05-20 03:17:09 +0000"
     },
     "done": true
   },
   "create:andesite_alloy": {
     "criteria": {
       "0": "2025-05-20 03:17:13 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/skelewag": {
+    "criteria": {
+      "killed": "2025-05-20 03:18:33 +0000"
+    },
+    "done": true
+  },
+  "alexsmobs:alexsmobs/fish_bones": {
+    "criteria": {
+      "sopa_de_macaco": "2025-05-20 03:20:20 +0000"
     },
     "done": true
   },
@@ -1385,21 +1404,15 @@
     },
     "done": true
   },
-  "alexsmobs:alexsmobs/skelewag": {
+  "alexsmobs:alexsmobs/straddler": {
     "criteria": {
-      "killed": "2025-05-20 03:18:33 +0000"
+      "killed_by": "2025-05-21 01:53:43 +0000"
     },
     "done": true
   },
-  "beautify:candelabras": {
+  "minecraft:nether/find_bastion": {
     "criteria": {
-      "requirement": "2025-05-20 03:17:09 +0000"
-    },
-    "done": true
-  },
-  "tombstone:adventure/strong_or_careful": {
-    "criteria": {
-      "coded_trigger": "2025-05-20 02:57:24 +0000"
+      "bastion": "2025-05-21 01:54:07 +0000"
     },
     "done": true
   },

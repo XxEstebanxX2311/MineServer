@@ -5875,3 +5875,28 @@ java.net.http.HttpTimeoutException: request timed out
 	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:177) ~[fmlcore-1.20.1-47.3.7.jar%23693!/:?]
 	at java.lang.Iterable.forEach(Iterable.java:75) ~[?:?]
 	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) ~[fmlcore-1.20.1-47.3.7.jar%23693!/:?]
+[21May2025 01:52:33.536] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGermanXD137[/127.220.108.12:35957] logged in with entity id 1283 at (112.48781727257114, 105.53584062504456, -103.49437834735389)
+[21May2025 01:52:33.808] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 joined the game
+[21May2025 01:52:34.065] [Server thread/INFO] [Jade/]: Syncing config to ItsGermanXD137 (9c0c0d0e-4246-3876-8ed8-bf20a695d3d0)
+[21May2025 01:52:46.967] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9c0c0d0e-4246-3876-8ed8-bf20a695d3d0
+[21May2025 01:52:46.998] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[21May2025 01:52:47.002] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[21May2025 01:52:47.005] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[21May2025 01:52:47.009] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[21May2025 01:52:47.012] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[21May2025 01:52:47.014] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[21May2025 01:52:47.015] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[21May2025 01:52:47.015] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[21May2025 01:52:47.015] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[21May2025 01:52:47.016] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[21May2025 01:52:47.016] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MineServer/servidor_minecraft/bclib-sync (allowDelete=true)
+[21May2025 01:52:47.069] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 13596ms or 271 ticks behind
+[21May2025 01:53:25.147] [Server thread/INFO] [net.blay09.mods.netherportalfix.NetherPortalFix/]: Return portal is no longer valid
+[21May2025 01:53:25.545] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Piglin['Piglin'/1466, l='ServerLevel[world]', x=88.56, y=58.00, z=-99.79]
+[21May2025 01:53:25.668] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Piglin['Piglin'/1483, l='ServerLevel[world]', x=67.48, y=65.00, z=-116.47]
+[21May2025 01:53:25.670] [Server thread/WARN] [net.minecraft.world.level.entity.PersistentEntitySectionManager/]: UUID of added entity already exists: Piglin['Piglin'/1485, l='ServerLevel[world]', x=77.09, y=77.00, z=-113.54]
+[21May2025 01:53:43.115] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has made the advancement [Straddle My Ol' Saddle]
+[21May2025 01:54:07.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has made the advancement [Those Were the Days]
+[21May2025 01:54:20.122] [Worker-Main-38/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/1790, l='ServerLevel[world]', x=106.00, y=31.00, z=-334.00] as it would cause deadlock
+[21May2025 01:54:20.354] [Worker-Main-40/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/1794, l='ServerLevel[world]', x=239.00, y=31.00, z=-325.00] as it would cause deadlock
+[21May2025 01:54:25.469] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/1967, l='ServerLevel[world]', x=246.00, y=31.00, z=-367.00] as it would cause deadlock
