@@ -5752,3 +5752,25 @@ ModdedBiomeSource (39cf2fbb)
 [22May2025 21:25:04.379] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
 [22May2025 21:25:04.380] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
 [22May2025 21:25:04.380] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MineServer/servidor_minecraft/bclib-sync (allowDelete=true)
+[22May2025 21:27:22.305] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGermanXD137 lost connection: Disconnected
+[22May2025 21:27:22.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 left the game
+[22May2025 21:27:22.309] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9c0c0d0e-4246-3876-8ed8-bf20a695d3d0
+[22May2025 21:32:34.009] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGermanXD137[/127.220.108.12:57207] logged in with entity id 2152 at (133.96854792379273, 85.1212968405392, -422.72338446550395)
+[22May2025 21:32:34.067] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 joined the game
+[22May2025 21:32:34.102] [Server thread/INFO] [Jade/]: Syncing config to ItsGermanXD137 (9c0c0d0e-4246-3876-8ed8-bf20a695d3d0)
+[22May2025 21:32:34.188] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9c0c0d0e-4246-3876-8ed8-bf20a695d3d0
+[22May2025 21:32:41.312] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[22May2025 21:32:41.312] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[22May2025 21:32:41.313] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[22May2025 21:32:41.313] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[22May2025 21:32:41.313] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[22May2025 21:32:41.313] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[22May2025 21:32:41.313] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[22May2025 21:32:41.313] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[22May2025 21:32:41.314] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[22May2025 21:32:41.314] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[22May2025 21:32:41.314] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MineServer/servidor_minecraft/bclib-sync (allowDelete=true)
+[22May2025 21:35:00.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has reached the goal [Bone Crusher]
+[22May2025 21:35:01.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGermanXD137 lost connection: Disconnected
+[22May2025 21:35:01.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 left the game
+[22May2025 21:35:01.854] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9c0c0d0e-4246-3876-8ed8-bf20a695d3d0

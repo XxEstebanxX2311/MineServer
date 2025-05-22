@@ -688,6 +688,7 @@
       "minecraft:evoker": "2025-05-20 01:14:54 +0000",
       "caverns_and_chasms:peeper": "2025-05-20 03:48:45 +0000",
       "minecraft:zombified_piglin": "2025-05-20 03:54:53 +0000",
+      "minecraft:wither_skeleton": "2025-05-22 21:27:03 +0000",
       "quark:wraith": "2025-05-21 01:59:23 +0000",
       "caverns_and_chasms:mime": "2025-05-20 01:11:30 +0000",
       "minecraft:zombie": "2025-05-19 19:54:04 +0000",
@@ -1420,15 +1421,21 @@
     },
     "done": true
   },
+  "minecraft:nether/find_fortress": {
+    "criteria": {
+      "in_better_fortress": "2025-05-21 01:56:55 +0000"
+    },
+    "done": true
+  },
   "create:burner": {
     "criteria": {
       "0": "2025-05-21 01:57:10 +0000"
     },
     "done": true
   },
-  "minecraft:nether/find_fortress": {
+  "tombstone:adventure/bone_crusher": {
     "criteria": {
-      "in_better_fortress": "2025-05-21 01:56:55 +0000"
+      "coded_trigger": "2025-05-22 21:35:00 +0000"
     },
     "done": true
   },
