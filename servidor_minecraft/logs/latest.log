@@ -5777,3 +5777,11 @@ ModdedBiomeSource (38d8bb6b)
 [22May2025 22:59:54.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Set own game mode to Spectator Mode]
 [22May2025 23:00:03.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Set own game mode to Survival Mode]
 [22May2025 23:01:29.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsGermanXD137: Set own game mode to Spectator Mode]
+[22May2025 23:04:55.847] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGermanXD137 moved too quickly! 7.271609143262779,0.11582706562685274,7.9257379480003465
+[22May2025 23:05:24.191] [Worker-Main-21/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/5361, l='ServerLevel[world]', x=26.00, y=31.00, z=249.00] as it would cause deadlock
+[22May2025 23:05:27.667] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/5440, l='ServerLevel[world]', x=-2.00, y=31.00, z=302.00] as it would cause deadlock
+[22May2025 23:05:51.519] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsGermanXD137: Set own game mode to Survival Mode]
+[22May2025 23:06:12.543] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/6006, l='ServerLevel[world]', x=411.00, y=31.00, z=86.00] as it would cause deadlock
+[22May2025 23:06:31.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Teleported Xx_Esteban_xX to ItsGermanXD137]
+[22May2025 23:06:43.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Set own game mode to Spectator Mode]
+[22May2025 23:09:41.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Set own game mode to Survival Mode]
