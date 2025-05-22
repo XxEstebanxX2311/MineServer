@@ -5815,3 +5815,7 @@ ModdedBiomeSource (38d8bb6b)
 [22May2025 23:32:17.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has completed the challenge [Hot Tourist Destinations]
 [22May2025 23:32:18.168] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/15722, l='ServerLevel[world]', x=304.90, y=31.00, z=922.00] as it would cause deadlock
 [22May2025 23:32:18.942] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/15741, l='ServerLevel[world]', x=552.00, y=31.00, z=843.00] as it would cause deadlock
+[22May2025 23:33:28.692] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 6121ms or 122 ticks behind
+[22May2025 23:33:52.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has made the advancement [Mutual Aid]
+[22May2025 23:34:19.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has made the advancement [Knowledge raises the soul]
+[22May2025 23:39:55.403] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has made the advancement [Versatility]
