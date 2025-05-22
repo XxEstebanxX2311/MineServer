@@ -5774,3 +5774,4 @@ ModdedBiomeSource (39cf2fbb)
 [22May2025 21:35:01.853] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: ItsGermanXD137 lost connection: Disconnected
 [22May2025 21:35:01.854] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 left the game
 [22May2025 21:35:01.854] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9c0c0d0e-4246-3876-8ed8-bf20a695d3d0
+[22May2025 21:39:49.644] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: No player was found
