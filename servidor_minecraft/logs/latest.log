@@ -5805,3 +5805,13 @@ ModdedBiomeSource (38d8bb6b)
 [22May2025 23:21:01.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsGermanXD137: Set own game mode to Survival Mode]
 [22May2025 23:22:05.297] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
 [22May2025 23:22:27.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has reached the goal [A self-respecting Soul]
+[22May2025 23:22:47.242] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 diamond_horse_armor
+[22May2025 23:28:09.138] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/13729, l='ServerLevel[world]', x=328.00, y=31.00, z=640.90] as it would cause deadlock
+[22May2025 23:28:22.997] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/13963, l='ServerLevel[world]', x=515.00, y=31.00, z=568.00] as it would cause deadlock
+[22May2025 23:28:44.315] [Worker-Main-52/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/14611, l='ServerLevel[world]', x=520.00, y=31.00, z=814.00] as it would cause deadlock
+[22May2025 23:29:01.499] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsGermanXD137: Set own game mode to Creative Mode]
+[22May2025 23:32:03.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsGermanXD137: Set own game mode to Survival Mode]
+[22May2025 23:32:11.245] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/15627, l='ServerLevel[world]', x=392.00, y=31.00, z=875.00] as it would cause deadlock
+[22May2025 23:32:17.637] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has completed the challenge [Hot Tourist Destinations]
+[22May2025 23:32:18.168] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/15722, l='ServerLevel[world]', x=304.90, y=31.00, z=922.00] as it would cause deadlock
+[22May2025 23:32:18.942] [Worker-Main-19/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/15741, l='ServerLevel[world]', x=552.00, y=31.00, z=843.00] as it would cause deadlock

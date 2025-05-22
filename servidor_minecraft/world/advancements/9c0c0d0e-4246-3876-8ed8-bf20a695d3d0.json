@@ -639,7 +639,8 @@
     "criteria": {
       "minecraft:crimson_forest": "2025-05-18 02:37:18 +0000",
       "minecraft:nether_wastes": "2025-05-21 01:54:58 +0000",
-      "minecraft:basalt_deltas": "2025-05-21 01:53:41 +0000"
+      "minecraft:basalt_deltas": "2025-05-21 01:53:41 +0000",
+      "minecraft:warped_forest": "2025-05-22 23:28:08 +0000"
     },
     "done": false
   },
@@ -682,6 +683,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:pillager": "2025-05-19 19:55:41 +0000",
+      "minecraft:blaze": "2025-05-22 23:19:57 +0000",
       "minecraft:skeleton": "2025-05-19 19:54:14 +0000",
       "minecraft:elder_guardian": "2025-05-19 22:23:55 +0000",
       "minecraft:hoglin": "2025-05-21 01:56:25 +0000",
@@ -1441,6 +1443,12 @@
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-05-22 21:35:00 +0000"
+    },
+    "done": true
+  },
+  "tombstone:adventure/use_mercy": {
+    "criteria": {
+      "has_magic_scroll": "2025-05-22 23:22:27 +0000"
     },
     "done": true
   },
