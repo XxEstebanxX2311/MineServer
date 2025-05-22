@@ -5740,3 +5740,40 @@ ModdedBiomeSource (38d8bb6b)
 [22May2025 22:51:25.364] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
 [22May2025 22:51:25.366] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
 [22May2025 22:51:25.367] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
+[22May2025 22:54:18.843] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: ItsGermanXD137[/127.220.108.12:52933] logged in with entity id 1264 at (118.68502548313437, 93.0, -414.7720446326344)
+[22May2025 22:54:19.143] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 joined the game
+[22May2025 22:54:19.311] [Server thread/INFO] [Jade/]: Syncing config to ItsGermanXD137 (9c0c0d0e-4246-3876-8ed8-bf20a695d3d0)
+[22May2025 22:54:19.447] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 9c0c0d0e-4246-3876-8ed8-bf20a695d3d0
+[22May2025 22:54:27.309] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[22May2025 22:54:27.311] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[22May2025 22:54:27.314] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[22May2025 22:54:27.316] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[22May2025 22:54:27.319] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[22May2025 22:54:27.321] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[22May2025 22:54:27.321] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[22May2025 22:54:27.322] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[22May2025 22:54:27.322] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[22May2025 22:54:27.323] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[22May2025 22:54:27.323] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MineServer/servidor_minecraft/bclib-sync (allowDelete=true)
+[22May2025 22:57:15.775] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsGermanXD137: Gave 1 [Chicken Egg] to ItsGermanXD137]
+[22May2025 22:57:57.549] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Xx_Esteban_xX[/127.13.117.198:57639] logged in with entity id 2976 at (123.72695502912202, 108.0, -117.49263076226153)
+[22May2025 22:57:57.607] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Xx_Esteban_xX joined the game
+[22May2025 22:57:57.717] [Server thread/INFO] [Jade/]: Syncing config to Xx_Esteban_xX (16fdecdb-5c12-34c3-a913-77e9d53d05e1)
+[22May2025 22:57:57.790] [Server thread/INFO] [xaero.pac.OpenPartiesAndClaims/]: Updating all forceload tickets for 16fdecdb-5c12-34c3-a913-77e9d53d05e1
+[22May2025 22:58:06.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[22May2025 22:58:06.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] Sending Hello to Client. (server=3.0.14)
+[22May2025 22:58:06.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[22May2025 22:58:06.552] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[22May2025 22:58:06.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[22May2025 22:58:06.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[22May2025 22:58:06.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[22May2025 22:58:06.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[22May2025 22:58:06.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[22May2025 22:58:06.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[22May2025 22:58:06.553] [Server thread/INFO] [org.betterx.worlds.together.util.Logger/]: [bclib] 	- Offering Folder /workspaces/MineServer/servidor_minecraft/bclib-sync (allowDelete=true)
+[22May2025 22:59:06.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: 1$s has perished from holy damage
+[22May2025 22:59:06.156] [Server thread/INFO] [tombstone/]: The player ItsGermanXD137 has successfully been saved
+[22May2025 22:59:14.756] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsGermanXD137: Set 22 experience levels on ItsGermanXD137]
+[22May2025 22:59:54.632] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Set own game mode to Spectator Mode]
+[22May2025 23:00:03.610] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Set own game mode to Survival Mode]
+[22May2025 23:01:29.660] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsGermanXD137: Set own game mode to Spectator Mode]
