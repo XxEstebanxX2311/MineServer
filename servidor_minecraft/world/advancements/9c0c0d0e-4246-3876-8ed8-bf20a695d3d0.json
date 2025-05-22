@@ -490,6 +490,7 @@
       "shrubland": "2025-05-19 22:06:23 +0000",
       "rocky_shrubland": "2025-05-20 02:33:21 +0000",
       "scrubland": "2025-05-18 01:57:04 +0000",
+      "erupting_inferno": "2025-05-22 23:12:39 +0000",
       "highland": "2025-05-20 02:32:19 +0000",
       "clover_patch": "2025-05-20 02:31:20 +0000",
       "cold_desert": "2025-05-19 20:14:10 +0000",
@@ -502,6 +503,7 @@
       "wasteland": "2025-05-19 20:59:28 +0000",
       "lush_desert": "2025-05-19 21:08:10 +0000",
       "redwood_forest": "2025-05-19 22:58:56 +0000",
+      "visceral_heap": "2025-05-22 23:18:10 +0000",
       "wasteland_steppe": "2025-05-19 20:59:54 +0000",
       "seasonal_orchard": "2025-05-19 23:05:10 +0000",
       "dune_beach": "2025-05-19 22:07:05 +0000",
@@ -685,6 +687,7 @@
       "minecraft:hoglin": "2025-05-21 01:56:25 +0000",
       "minecraft:vindicator": "2025-05-19 19:55:31 +0000",
       "minecraft:spider": "2025-05-19 20:30:37 +0000",
+      "minecraft:piglin_brute": "2025-05-22 23:13:31 +0000",
       "minecraft:evoker": "2025-05-20 01:14:54 +0000",
       "caverns_and_chasms:peeper": "2025-05-20 03:48:45 +0000",
       "minecraft:zombified_piglin": "2025-05-20 03:54:53 +0000",
@@ -1438,6 +1441,24 @@
   "tombstone:adventure/bone_crusher": {
     "criteria": {
       "coded_trigger": "2025-05-22 21:35:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/loot_bastion": {
+    "criteria": {
+      "loot_bastion_bridge": "2025-05-22 23:14:30 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/cave_tablet": {
+    "criteria": {
+      "cave_tablet": "2025-05-22 23:15:46 +0000"
+    },
+    "done": true
+  },
+  "alexscaves:alexscaves/deepsight": {
+    "criteria": {
+      "all_effects": "2025-05-22 23:18:40 +0000"
     },
     "done": true
   },

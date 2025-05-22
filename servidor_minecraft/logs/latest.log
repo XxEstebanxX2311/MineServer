@@ -5785,3 +5785,23 @@ ModdedBiomeSource (38d8bb6b)
 [22May2025 23:06:31.407] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Teleported Xx_Esteban_xX to ItsGermanXD137]
 [22May2025 23:06:43.491] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Set own game mode to Spectator Mode]
 [22May2025 23:09:41.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Xx_Esteban_xX: Set own game mode to Survival Mode]
+[22May2025 23:12:36.876] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/7545, l='ServerLevel[world]', x=-137.00, y=31.00, z=178.00] as it would cause deadlock
+[22May2025 23:14:30.573] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has made the advancement [War Pigs]
+[22May2025 23:15:46.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has made the advancement [It Belongs in a Museum]
+[22May2025 23:16:13.874] [Worker-Main-52/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/9357, l='ServerLevel[world]', x=-264.00, y=54.00, z=337.00] as it would cause deadlock
+[22May2025 23:16:23.011] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=31, z=450} BlockPos{x=-67, y=30, z=452}
+[22May2025 23:16:23.598] [Worker-Main-39/WARN] [ModernFix/]: Skipped emitting ENTITY_MOUNT game event for entity Strider['Strider'/9557, l='ServerLevel[world]', x=99.00, y=31.00, z=649.00] as it would cause deadlock
+[22May2025 23:16:39.560] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-67, y=34, z=509} BlockPos{x=-68, y=33, z=509}
+[22May2025 23:16:39.712] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-68, y=33, z=509} BlockPos{x=-67, y=34, z=509}
+[22May2025 23:18:08.464] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=69, z=534} BlockPos{x=-10, y=71, z=560}
+[22May2025 23:18:08.516] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=69, z=534} BlockPos{x=-10, y=71, z=560}
+[22May2025 23:18:08.567] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=69, z=534} BlockPos{x=-10, y=71, z=560}
+[22May2025 23:18:08.616] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=69, z=534} BlockPos{x=-10, y=71, z=560}
+[22May2025 23:18:08.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=69, z=534} BlockPos{x=-10, y=71, z=560}
+[22May2025 23:18:08.738] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=69, z=534} BlockPos{x=-10, y=71, z=560}
+[22May2025 23:18:08.760] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-15, y=69, z=534} BlockPos{x=-10, y=71, z=560}
+[22May2025 23:18:40.641] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has made the advancement [A Lighthouse in Your Eyes]
+[22May2025 23:20:54.945] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsGermanXD137: Set own game mode to Spectator Mode]
+[22May2025 23:21:01.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [ItsGermanXD137: Set own game mode to Survival Mode]
+[22May2025 23:22:05.297] [Server thread/WARN] [net.minecraft.world.level.storage.loot.functions.SetItemDamageFunction/]: Couldn't set damage of loot item 1 iron_horse_armor
+[22May2025 23:22:27.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ItsGermanXD137 has reached the goal [A self-respecting Soul]
