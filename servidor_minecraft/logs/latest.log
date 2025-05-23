@@ -5766,3 +5766,6 @@ ModdedBiomeSource (160ff349)
 [23May2025 01:42:32.794] [Server thread/INFO] [neruina/]: Auto report config loaded for mod: "copycats"
 [23May2025 01:42:32.795] [Server thread/INFO] [neruina/]: Auto report config loaded for mod: "create_connected"
 [23May2025 01:42:32.795] [Server thread/INFO] [neruina/]: Auto report config loaded for mod: "the_bumblezone"
+[23May2025 01:58:10.629] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatCommandPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatCommandPacket
+[23May2025 01:58:10.631] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatPacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatPacket
+[23May2025 01:58:10.632] [Netty Epoll Server IO #1/INFO] [mixin/]: Mixing server.MixinServerboundChatSessionUpdatePacket from mixins/common/nochatreports.mixins.json into net.minecraft.network.protocol.game.ServerboundChatSessionUpdatePacket
